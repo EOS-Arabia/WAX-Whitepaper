@@ -14,17 +14,17 @@
 
 *إخلاء المسئولية: هذه الورقة البيضاء لبروتوكول واكس (WAX) لغرض توفير المعلومات فقط. لا تضمن واكس (WAX) دقة هذه الورقة البيضاء وتُقدم "كما هي" لا تقدم واكس (WAX) أي إقرارات أو ضمانات صريحة أو ضمنية أو قانونية أو غير ذلك وتنفيها صراحةً أياً كان وتخلي مسئوليتها عنها، بما في ذلك على سبيل المثال لا الحصر: 1 ضمانات القابلية للشراء، المناسبة لغرض ما، المناسبة، الاستخدام، الملكية أو عدم الانتهاك (2) أن محتويات هذه الورقة البيضاء خالية من الأخطاء والسهو؛ و (3) أن هذه المحتويات لن تنتهك حقوق الطرف الثالث. لا تتحمل واكس (WAX) والشركات التابعة لها أي مسؤولية عن أية أضرار من أي نوع الناشئة عن استخدام هذه الورقة البيضاء أو الإشارة إليها أو الاعتماد عليها أو أي من المحتويات الواردة فيها، حتى إذا ما أبلغت بإمكانية حدوث مثل هذه الأضرار. لا تتحمل واكس "WAX" أو أي جهة تابعة له بأي حال من الأحوال المسئولية تجاه أي شخص أو جهة عن أي أضرار أو خسائر أو التزامات أو تكاليف أو نفقات من أي نوع سواء كانت مباشرة أو غير مباشرة أو تبعية أو تعويضية أو عرضية أو فعلية أو نموذجية أو تأديبية أو خاصة لاستخدام ما أو الإشارة إلى أو الاعتماد على هذه الورقة البيضاء أو أي من المحتويات الواردة هنا، بما في ذلك دون حصر: أي خسارة في الأعمال التجارية والإيرادات والأرباح والبيانات والاستخدام والسمعة التجارية أو غيرها من الخسائر غير الملموسة. *
 
-**Contents**
+**المحتويات**
 
 <!-- TOC -->
 
-- [WAX Protocol White Paper](#wax-protocol-white-paper)
-- [Introduction](#introduction)
-  - [WAX View of the State of Blockchain in 2019](#wax-view-of-the-state-of-blockchain-in-2019)
-    - [Mainstream Companies Enter the Market](#mainstream-companies-enter-the-market)
-    - [Centralized Models Compete with Blockchain](#centralized-models-compete-with-blockchain)
-    - [Ethereum Almost Killed our Business](#ethereum-almost-killed-our-business)
-    - [Blockchain is Still Expensive and Hard to Use](#blockchain-is-still-expensive-and-hard-to-use)
+- [•	الورقة البيضاء لبروتوكول واكس (WAX)](#wax-protocol-white-paper)
+- [المقدمة](#introduction)
+  - [رؤية واكس (WAX) لحالة البلوكتشين في عام 2019](#wax-view-of-the-state-of-blockchain-in-2019)
+    - [دخول الشركات الرئيسية السوق](#mainstream-companies-enter-the-market)
+    - [تنافس النماذج المركزية مع البلوكتشين](#centralized-models-compete-with-blockchain)
+    - [كادت الإيثيريوم أن تقضي على أعمالناسص3](#ethereum-almost-killed-our-business)
+    - [لا يزال البلوكتشين باهظ الثمن وصعب الاستخدام](#blockchain-is-still-expensive-and-hard-to-use)
     - [Digital Goods = NFTs](#digital-goods--nfts)
     - [\$2.0 Trillion Market Potential](#20-trillion-market-potential)
     - [Fiat and Crypto try to Get Along](#fiat-and-crypto-try-to-get-along)
