@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # الورقة البيضاء لبروتوكول واكس (WAX)
 
 > **30 أغسطس 2019**
@@ -897,3 +899,6 @@ Interoperability with other chains for NFTs and other services requires microser
 
 ## Public WAX Testnet
 WAX plans to enable a public WAX testnet so that dApps can build their applications safely before launching on the mainnet.
+
+</div>
+
