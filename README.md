@@ -1,12 +1,10 @@
-# WAX Protocol White Paper
+# الورقة البيضاء لبروتوكول واكس (WAX)
 
+> **30 أغسطس 2019**
 
-> **August 30, 2019**
+بقلم ويليام كويجلي، الرئيس التنفيذي لشركة واكس (WAX) | جوناثان يانتيس، مدير العمليات، واكس (WAX) | لوكاس سليوكا،  الرئيس التقني التنفيذي، واكس (WAX) | مالكولم كاسسيل ، مستشار استراتيجي، واكس (WAX)
 
-By William Quigley, CEO, WAX | Jonathan Yantis, COO, WAX | Lukas Sliwka, CTO, WAX | Malcolm CasSelle, Strategic Advisor, WAX
-
-**Abstract**: The WAX Protocol is a DPoS blockchain designed to scale in conjunction with a microservice layer that provides specialized infrastructure for building digital goods marketplaces. The knowledge required to construct interconnected and highly sophisticated marketplace services comes from the team’s 20+ years’ experience building digital goods businesses,  including the hugely successful OPSkins.com. This document describes the WAX Protocol and how it fits within the WAX Platform. The WAX Platform is the combination of both the WAX Protocol and a microservice layer.
-
+**نبذة **: بروتوكول واكس (WAX) هو بلوكتشين بنظام إثبات الحصة بالتفويض (DPoS) مصمم للتوسع بالاشتراك مع طبقة الخدمات الصغيرة التي توفر بنية تحتية متخصصة لبناء أسواق السلع الرقمية. إن المعرفة المطلوبة لإنشاء خدمات سوق مترابطة وشديدة التعقيد تأتي من خبرة الفريق التي تبلغ 20 عامًا في بناء شركات السلع الرقمية، بما في ذلك موقع OPSkins.com الناجح للغاية. يصف هذا المستند بروتوكول واكس (WAX) وكيف يتناسب هذا البروتوكول مع منصة واكس (WAX). إن منصة واكس (WAX) تجمع بين بروتوكول واكس (WAX) وطبقة الخدمات الصغيرة.
 **PLEASE NOTE: THE CRYPTOGRAPHIC TOKENS REFERRED TO IN THIS WHITE PAPER REFER TO TOKENS CREATED ON THE WAX PROTOCOL BLOCKCHAIN. THEY DO NOT REFER TO THE ERC-20 TOKENS DISTRIBUTED IN THE PRIOR TOKEN GENERATION EVENT.**
 
 Copyright © 2019 WAX, Worldwide Asset eXchange
