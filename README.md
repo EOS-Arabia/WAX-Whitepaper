@@ -5,9 +5,10 @@
 بقلم ويليام كويجلي، الرئيس التنفيذي لشركة واكس (WAX) | جوناثان يانتيس، مدير العمليات، واكس (WAX) | لوكاس سليوكا،  الرئيس التقني التنفيذي، واكس (WAX) | مالكولم كاسسيل ، مستشار استراتيجي، واكس (WAX)
 
 **نبذة **: بروتوكول واكس (WAX) هو بلوكتشين بنظام إثبات الحصة بالتفويض (DPoS) مصمم للتوسع بالاشتراك مع طبقة الخدمات الصغيرة التي توفر بنية تحتية متخصصة لبناء أسواق السلع الرقمية. إن المعرفة المطلوبة لإنشاء خدمات سوق مترابطة وشديدة التعقيد تأتي من خبرة الفريق التي تبلغ 20 عامًا في بناء شركات السلع الرقمية، بما في ذلك موقع OPSkins.com الناجح للغاية. يصف هذا المستند بروتوكول واكس (WAX) وكيف يتناسب هذا البروتوكول مع منصة واكس (WAX). إن منصة واكس (WAX) تجمع بين بروتوكول واكس (WAX) وطبقة الخدمات الصغيرة.
-**PLEASE NOTE: THE CRYPTOGRAPHIC TOKENS REFERRED TO IN THIS WHITE PAPER REFER TO TOKENS CREATED ON THE WAX PROTOCOL BLOCKCHAIN. THEY DO NOT REFER TO THE ERC-20 TOKENS DISTRIBUTED IN THE PRIOR TOKEN GENERATION EVENT.**
 
-Copyright © 2019 WAX, Worldwide Asset eXchange
+**يُرجى ملاحظة التالي: الرموز المشفرة المشار إليها في هذه الورقة البيضاء تشير إلى الرموز التي أُنشئت على البلوكتشين الخاص ببروتوكول واكس (WAX). وهي لا تشير إلى رموز (ERC-20) الموزعة في حدث إنشاء الرموز السابق. **
+
+حقوق النشر © 2019 واكس (WAX) Worldwide Asset eXchange
 
 *Disclaimer. This WAX Protocol White Paper is for information purposes only. WAX does not guarantee the accuracy of this white paper and is presented “as is.” WAX does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, suitability, usage, title or noninfringement; (ii) that the contents of this white paper are free from errors and omissions; and (iii) that such contents will not infringe third-party rights. WAX and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this white paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will WAX or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special, for the use of, reference to, or reliance on this white paper or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses or unrealized savings.*
 
