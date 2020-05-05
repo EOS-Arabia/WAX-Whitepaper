@@ -106,201 +106,189 @@
 
 
 # المقدمة 
-With the advent of distributed ledger technology and [blockchain](https://en.wikipedia.org/wiki/Blockchain) projects in the past decade, many projects have built solutions in search of a market (the digital goods market) and customers. The Worldwide Asset eXchange’s approach, however, is the opposite. We started our endeavor with a market we understood deeply, as operators of a successful business and millions of registered customers. We had a long list of challenges that needed to be solved to grow the market for digital goods trading globally. We waited for several years to begin building WAX until blockchain was sufficiently mature enough to handle the many requirements for success. The most fundamental requirement was that it could handle the transactions per second necessary for our preexisting consumer demand, with room for significant growth. We designed WAX to solve a specific set of problems in the digital goods market that already has millions of consumers wanting to use it.
+مع ظهور تكنولوجيا السجل الموزع ومشاريع البلوكتشين في العقد الماضي، بَنت العديد من المشاريع حلولًا مختلفة بحثًا عن سوق ما (سوق السلع الرقمية) والعملاء. ومع ذلك، فإن نهج تبادل الأصول على نطاق عالمي يمثل العكس.  بدأنا مسعانا مع سوق نفهمه بعمق، وذلك بوصفنا مشغلين لنشاط تجاري ناجح له ملايين العملاء المسجلين. كان لدينا قائمة طويلة من التحديات التي يجب حلها لتنمية حجم سوق تبادل السلع الرقمية عالميًا. لقد انتظرنا لعدة سنوات لبدء بناء واكس (WAX) حتى أصبحت البلوكشين ناضجة بما يكفي للتعامل مع العديد من متطلبات النجاح. كان المطلب الأساسي هو قدرة التعامل مع عدد المعاملات في الثانية اللازم لطلب المستهلكين الموجود مسبقًا، مع توفير مجال للنمو الكبير.  لقد صممنا واكس (WAX) لحل مجموعة محددة من المشاكل في سوق السلع الرقمية التي لديها بالفعل ملايين المستهلكين الراغبين في استخدامها.
 
-The market for digital goods is large and growing fast. What many don't realize is that the digital goods market includes **both** virtual items like [video games](https://en.wikipedia.org/wiki/Video_game_industry) and **tokenized consumer products**. Video games are a \$140 billion market, and tokenized consumer products are a \$1.8 trillion market. The combined market, nearly \$2 trillion, is the market that WAX addresses. In the 12 months of the WAX Protocol's testnet operation with its two largest dApps, VGO and vIRL, the combined trading volume exceeded \$150 million.
+إن سوق السلع الرقمية كبير وسريع النمو. ما لا يدركه الكثيرون أن سوق السلع الرقمية يشمل كلا السلع الافتراضية مثل ألعاب الفيديو و المنتجات الاستهلاكية المرمزة . يبلغ حجم سوق ألعاب الفيديو 140 مليار دولار، بينما تمثل المنتجات الاستهلاكية المرمزة سوقًا بقيمة 1.8 تريليون دولار. يبلغ حجم السوق بالكامل ما يقرب من 2 تريليون دولار، وهي السوق التي تستهدفها واكس (WAX). في خلال 12 شهرًا من عملية اختبار شبكة بروتوكول واكس (WAX) مع اثنتين من أكبر تطبيقاتها اللامركزية (VGO) و (vIRL)، تجاوز حجم التداول المجمع 150 مليون دولار.
+
 
 <a id="markdown-wax-view-of-the-state-of-blockchain-in-2019" name="wax-view-of-the-state-of-blockchain-in-2019"></a>
 
-## WAX View of the State of Blockchain in 2019
+## رؤية واكس (WAX) لحالة البلوكتشين في عام 2019
 
-Since the WAX project announcement in June of 2017, the market has evolved rapidly around digital goods. This section on the state of the industry gives some context on the decisions we made in designing the WAX Protocol.
-
+منذ إعلان مشروع واكس (WAX) في يونيو 2017 ، تطورت السوق بسرعة حول السلع الرقمية. يُقدم هذا القسم الخاص بحالة القطاع بعض السياق حول القرارات التي اتخذناها في تصميم بروتوكول واكس (WAX).
 
 <a id="markdown-mainstream-companies-enter-the-market" name="mainstream-companies-enter-the-market"></a>
 
-### Mainstream Companies Enter the Market
-Many have asked how to build a commercially viable business platform in the blockchain world, given the challenges from a regulatory standpoint. Most governmental agencies cannot agree on who regulates [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency). Additionally, mainstream financial firms, tech companies, social networks, and other powerful institutions are now looking to compete or work with many companies in the blockchain industry.
+### دخول الشركات الرئيسية السوق
+يتساءل الكثيرون عن كيفية بناء منصة تجارية عملية في عالم البلوكتشين، مع الأخذ في الاعتبار تلك التحديات من وجهة نظر تنظيمية. لا يمكن لمعظم الوكالات الحكومية الاتفاق على من ينظم العملات المشفرة . بالإضافة إلى ذلك، تتطلع الشركات المالية الرئيسية وشركات التكنولوجيا والشبكات الاجتماعية والمؤسسات القوية الأخرى الآن إلى منافسة العديد من شركات قطاع البلوكتشين أو العمل معها
 
-With the announcement of blockchain initiatives by Facebook, JP Morgan, Fidelity, Bank of America, and others, the ecosystem is seen as rapidly legitimized in the last year. Visa and Mastercard have signed up to be nodes in the digital currency Project Libra. Who would have predicted that in 2017?
+مع الإعلان عن مبادرات البلوكتشين من قبل فيسبوك وجي بي مورجان وفيديليتي وبنك أوف أميريكا وغيرها، يُنظر إلى النظام البيئي أنه كان سريعًا في الحصول على الاعتراف بالشرعية في العام الماضي. وقعت كل من فيزا وماستركارد لتكونا عُقدًا (Nodes) في مشروع العملة الرقمية "ليبرا". من كان ليتوقع ذلك في عام 2017؟
+لاحظنا في هذا السياق العديد من التحديات الهامة الأخرى.
 
-In this context, we observed several other important challenges.
 
 
 <a id="markdown-centralized-models-compete-with-blockchain" name="centralized-models-compete-with-blockchain"></a>
 
-### Centralized Models Compete with Blockchain
-The transition from a centralized to a decentralized blockchain model for WAX was not without challenges. June 2018 was an important moment for WAX because we announced the launch of WAX ExpressTrade. It's a product free to use by anyone for the trading of digital goods and a prototype of the WAX Platform microservice layer. WAX ExpressTrade competed with Steam, the community marketplace operated by Valve (the game publisher for Counter-Strike: Global Offensive a.k.a. CS:GO). The problem was that CS:GO was the largest source of our virtual items at the time. Since the game publisher balked at our product announcement and threatened to ban our trading bots, we had to choose between launching into our blockchain future with that product and be banned by Valve, or hold back and stay beholden to Valve’s platform.
-
-We made our choice and here we are today doing more volume than ever without the fear of Valve’s policies that at times appeared arbitrary to us. Going 100% independent was a tough decision for us, and yet an important one to separate WAX from the centralized control systems that dominated the skins market. Games like Fortnite, CS:GO, and many others have centrally controlled skins that either prevent trading or restrict it severely. However, we see this trend changing (more on that later).
-
-As a side note, the vIRL dApp and other dApps like it can make any tradeable item on Steam also tradeable on WAX. In essence, WAX is the technology wrapper that encompasses all other virtual items that exist. Interoperability by design makes WAX very versatile.
-
+### تنافس النماذج المركزية مع البلوكتشين
+لم يكن الانتقال من نموذج البلوكتشين المركزي إلى اللامركزي لواكس (WAX) يخلو من التحديات. كان يونيو 2018 بمثابة لحظة هامة لواكس (WAX) لأننا أعلنا عن إطلاق واكس للتداول السريع (WAX ExpressTrade) . إنه منتج مجاني للاستخدام من قبل أي شخص لتداول السلع الرقمية ونموذج أولي لطبقة الخدمات المصغرة لمنصة واكس (WAX). تنافست واكس للتداول السريع (WAX ExpressTrade) مع (Steam)، سوق المجتمع الذي تديره (Valve) (ناشر لعبة كاونتر سترايك: الهجوم العالمي المعروفة أيضًا باسم CS: GO).  كانت المشكلة أن لعبة (CS: GO) كانت أكبر مصدر لعناصرنا الافتراضية في ذلك الوقت.  نظرًا لأن ناشر اللعبة اعترض على إعلان منتجنا وهدد بحظر روبوتات التداول (bots) الخاصة بنا، كان علينا أن نختار بين إطلاق مستقبلنا في البلوكتشين مع هذا المنتج وأن تحظرنا (Valve) أو التراجع والابقاء على تمسكنا بمنصة (Valve). 
+لقد اتخذنا قرارنا، وها نحن اليوم نقوم بأحجام أكبر من أي وقت مضى دون الخوف من سياسات (Valve) التي كانت تبدو لنا تعسفية أحيانًا. كانت الانتقال نحو الاستقلالية بنسبة 100٪ قرارًا صعبًا لنا، ومع ذلك كان قرارًا مهمًا لفصل واكس (WAX) عن أنظمة التحكم المركزية التي هيمنت على سوق الأشكال والمظاهر (skins). تحتوي ألعاب مثل فورتنايت (Fortnite) وكاونتر سترايك (CS: GO) والعديد من الألعاب الأخرى على مظاهر (Skins) ذات تحكم مركزي والتي تمنع التداول أو تقيده بشدة.  ومع ذلك فإننا نرى أن هذا الاتجاه يتغير (المزيد عن ذلك لاحقًا).
+ملاحظة جانبية: يمكن للتطبيقات اللامركزية التابعة ل (vIRL) وغيرها من التطبيقات اللامركزية المشابهة أن تجعل أي عنصر قابل للتداول على (Steam) قابلاً للتداول أيضًا على واكس (WAX). إن واكس (WAX) في جوهرها هي الغطاء التقني الذي يشمل جميع العناصر الافتراضية الأخرى الموجودة. تجعل قابلية التشغيل البيني حسب التصميم من واكس (WAX) حلًا متعدد الاستخدامات للغاية.
 
 <a id="markdown-ethereum-almost-killed-our-business" name="ethereum-almost-killed-our-business"></a>
 
-### Ethereum Almost Killed our Business 
-In 2018, after the split with Valve, developers from the community quickly launched a dApp for skins, VGO. VGO had been in the works already, but the unexpected rift with Valve caused us to work with the developers to launch it sooner than expected. Despite that, they anticipated it was all going to work well in theory...until we started to utilize the most-used blockchain at the time, Ethereum. Soon after launch, we woke up one day to find VGO was suddenly losing millions of dollars a day due to the chain's slowdown and costs. Yes, Ethereum almost killed the world's largest dApp (at the time). Don't get us wrong - we love Ethereum. Trying to build a viable commercial business on it, however, is a different matter altogether. However, during a spike in network usage that slowed confirmations from minutes to hours and drove up transactions fees 100x overnight, the dApp, VGO, was unusable. So VGO switched to a WAX alpha network. It was the only way to get that dApp to work because the WAX Protocol Blockchain was not ready yet.
+### الإيثيريوم كادت أن تقضي على أعمالنا 
+في عام 2018، بعد الانقسام عن "فالف" (Valve)، أطلق مطورون من المجتمع سريعًا تطبيقًا لامركزيا خاصًا ب "skins و VGO".  كانت (VGO) قيد العمل بالفعل، لكن الخلاف غير المتوقع مع "فالف" (Valve) جعلنا نعمل مع المطورين لإطلاقه في وقت أقرب مما كان متوقعًا.  رُغم ذلك فقد توقعوا أن كل شيء سيعمل جيدًا من الناحية النظرية... حتى بدأنا في استخدام البلوكتشين الأكثر استخدامًا في ذلك الوقت؛ الإيثيريوم. استيقظنا صبيحة  يوم بعد وقت قصير من الإطلاق لنجد أن (VGO) كانت تخسر فجأة ملايين الدولارات يوميًا بسبب تباطؤ السلسلة وتكاليفها. نعم، كادت الإيثيريوم لتقتل أكبر تطبيق لا مركزي (dApp) في العالم (في ذلك الوقت). لا تسئ فهمنا - فنحن نحب الإيثيريوم. ولكن محاولة بناء نشاط تجاري حيوي عليها أمر مختلف بالكلية. ومع ذلك، خلال أحد الارتفاعات الكبيرة في استخدام الشبكة الذي أدى إلى تباطؤ التأكيدات من دقائق إلى ساعات وتسبب في تضاعف رسوم المعاملات لمائة ضعف في ليلة وضحاها، كانت تطبيق (VGO) اللامركزي غير قابل للاستخدام.  لذلك تحولت (VGO) إلى شبكة واكس ألفا (WAX alpha). كانت تلك الطريقة الوحيدة لتشغيل هذا التطبيق اللامركزي لأن بلوكتشين بروتوكول واكس  (WAX Protocol Blockchain) لم يكن جاهزًا بعد.
 
 <a id="markdown-blockchain-is-still-expensive-and-hard-to-use" name="blockchain-is-still-expensive-and-hard-to-use"></a>
 
-### Blockchain is Still Expensive and Hard to Use
-Today VGO runs cheaply and easily on the WAX Protocol Blockchain. A similar dApp to VGO can also do the same because the hard parts are handled by WAX. WAX's developers have worked relentlessly to address many unanswered questions and solve hard problems. Governance, voter apathy, interoperability, backward compatibility, security, and a long list of other challenges took an enormous amount of time and debate. We must congratulate our developer team for working through most of these this past year. We are proud of both our world-class developers and the blockchain they created. We also want to thank the core devs at EOS and the folks at [StrongBlock](https://strongblock.io/) for their guidance and input.
+### لا يزال البلوكتشين باهظ الثمن وصعب الاستخدام
+أما اليوم؛ يعمل (VGO) على بلوكتشين بروتوكول واكس بسهولة وتكاليف منخفضة. يمكن للتطبيقات اللامركزية الأخرى المماثلة لـ (VGO) أن تفعل نفس الشيء أيضًا لأن الأجزاء الصعبة تتعامل معها واكس (WAX). عمل مطورو واكس (WAX) بلا هوادة لمعالجة العديد من الأسئلة التي لم يُجب عليها بالإضافة إلى حل المشكلات الصعبة. أمور مثل الحوكمة ولا مبالاة الناخبين وقابلية التشغيل البيني والتوافق العكسي والأمن وكذلك قائمة طويلة من التحديات الأخرى استغرقت قدرًا كبيرًا من الوقت والنقاش.  واجب علينا تهنئة فريقنا من المطورين على العمل خلال معظم هذه الأمور خلال السنة الماضية. نحن فخورون بكل من مطورينا عالميو المستوى والبلوكتشين التي طوروها. نود أيضًا أن نشكر المطورين الأساسيين في EOS والأشخاص في "سترونج بلوك" (StrongBlock) لإرشادهم ومساهماتهم.
+في العموم؛ يجب أن تتسبب تجربة بناء نشاط تجاري باستخدام البلوكتشين لأن يصل أي شخص مثلما وصلنا إلى أن الأمر ليس سهلاً.  لقد طورت واكس (WAX) حلولًا لحل العديد من المشكلات الخاصة التي نطرحها بمزيد من التفاصيل أدناه. ومع ذلك، فالنظام المركزي هو الأسهل دائمًا من ناحية الإنشاء والإدارة. بقبول مبدأ التصميم هذا، كانت خياراتنا واضحة لبناء طبقة الخدمات الصغيرة التي تمنح التطبيقات اللامركزية ميزة كبيرة عند التشغيل على واكس (WAX).
+عندما يصل سوق البلوكتشين لمرحلة النضح وتحتاج المشاريع إلى تحقيق نتائج مالية حقيقية كي تستمر، فإنها تحتاج إلى اكتساب العملاء ولذلك يصبح تحقيق الربح الأولوية القصوى. إن الانتقال من البدء بفكرة حالمة بالوصول للنجوم إلى عمل حقيقي هو ما يجعل واكس (WAX) في غاية الأهمية. كل يوم ينظر المطورون إلى واكس (WAX) ويرون فرصة لتوسيع أعمالهم بأقل جهد ممكن. توفر واكس (WAX) وقت العديد من أنواع الأنشطة التجارية المنقضي في اكتساب العملاء وترتيب قيمهم وفهمها وقبول مدفوعات العملات الورقية (الأموال المدعومة من الحكومة) والحصول على مخزون العناصر الرقمية ومعالجة العديد من الوظائف الهامة الأخرى للأعمال.
 
-Overall the experience in building a business with a blockchain should cause anyone to conclude, like ourselves, that it is not easy. WAX developed solutions to solve several particular problems that we go into more detail below. However, a centralized system is always easier to build and manage. Accepting this design principle, it informed our choices to build the microservice layer that gives dApps a considerable advantage when operating on WAX.
 
-As the blockchain market matures and projects need to achieve real financial results to sustain themselves, they need to acquire customers, so generating a profit becomes the highest priority. The transition from starting with a visionary "moonshot" idea into a real business is what makes WAX so important. Every day developers look at WAX and see an opportunity to expand their business with minimal work. WAX saves many types of businesses time in acquiring customers, ranking and understanding their value, accepting fiat (government-backed money) payments, acquiring digital item inventory, and addressing many other business-critical functions.
+-   **كيف تكتسب التطبيقات اللامركزية العملاء إذا كان استخدام واجهاتهم أمرًا صعبًا؟** يجد العملاء أن واكس (WAX) سهلة الاستخدام، لذلك لا تواجه التطبيقات اللامركزية التي تستخدم واكس (WAX) هذه المشكلة.
 
--   **How do dApps acquire customers when their interfaces are hard to use?** Customers find WAX easy to use, so dApps using WAX don't have that problem.
+-   **كيف تقبل التطبيقات اللامركزية مدفوعات العملات الورقية أو تسمح للعملاء بإحضار مخزون عناصرهم وأرصدة الحسابات معهم حتى يتمكنوا من استخدام تلك العناصر أو إنفاق الأرصدة؟** تستطيع واكس (WAX) التعامل مع كل هذه الوظائف، لذلك لا تواجه التطبيقات اللامركزية التي تستخدم واكس (WAX) هذه المشكلة.
 
--   **How do dApps accept fiat payments or allow customers to bring their item inventory and account balances with them so they can use those items or spend balances?** WAX handles all of these functions, so dApps using WAX don't have that problem.
+-   **كيف تنشئ التطبيقات اللامركزية وظائف عشوائية عادلة يمكن إثباتها حقًا؟** تتميز واكس (WAX) بوجود مولد الأرقام العشوائية على البلوكتشين، مما يوفر على التطبيقات اللامركزية الكثير من الجهد لبناء مولدهم الخاص بهم، بينما يثبت أيضًا عدالة مولد الأرقام العشوائية للعملاء.
 
--   **How do dApps create truly provably fair random functions?** With WAX, the random number generator is on the blockchain, saving dApps a ton of effort to build their own while also proving the fairness of the random number generator to customers.
-
-WAX was designed to make blockchain easy for dApps. We did the hard work, so dApps don’t have to.
-
+صممت واكس (WAX) لجعل البلوكتشين سهلًا على التطبيقات اللامركزية. لقد أنجزنا العمل الشاق حتى لا يتعين على التطبيقات المركزية القيام بذلك.
 
 
 <a id="markdown-digital-goods--nfts" name="digital-goods--nfts"></a>
 
-### Digital Goods = NFTs
-Unlike **fungible tokens**, like bitcoin and ethereum, where one token is indistinguishable from another, with **non-fungible tokens** (NFTs), like VGO, vIRL, and ERC-721/1155, each item is unique and is a particular item.
-
-Digital goods, or NFTs, are popular topics of conversation in the blockchain world today. But not too long ago, in mid-2017, using tokens to secure, store, and send virtual items in video games was discussed by only a few projects and crypto enthusiasts — those who understood video games. With the overall popularity of video games and the idea that NFTs could replace the virtual items in a video game centrally controlled by game publishers, we have seen many protocol chains dedicate hundreds of millions of dollars of investment to NFTs and video games. With the Ethereum-based ERC-721 standard, which then led to the ERC-1155 standard, many video game developers started to look at this new opportunity to attract game players around the idea of real ownership of their virtual items. These protocol projects' recurring theme was to stimulate more game publishers to create NFTs to run on their chain because that would drive adoption.
-
-Seeing some of the top 10 protocols discover and subsequently focus on video game assets was a satisfying moment from the WAX perspective because we have been focused on this market from the beginning and saying all along that it is the way forward. **WAX is a protocol chain singularly dedicated to digital goods**, and as we predicted, and others have concluded, video games are the gateway to mass adoption of blockchain technology. More consumers are likely to use virtual items from video games and digital goods based on the blockchain than any other applications available today. With 2.3 billion gamers worldwide and \$140 billion spent annually, it's a large enough audience spending enough money to propel blockchain technology into everyday usage. We see the beginnings of that adoption already based on the daily metrics on WAX.
-
-Overall, we see several NFT marketplaces struggling because they are trying to interact directly with smart contracts and cryptocurrency. We fundamentally believe that approach only leads to customer attrition because it is so laborious and challenging. The small NFT marketplace customer base and low activity suggest, as we believe, customers want something easier, faster, and cheaper, as well as fiat payments. Since WAX has the most liquidity with fiat payments and is easy to use for customers, we believe all items will eventually end up connected to WAX.
-
-All roads for digital goods lead to WAX.
+### السلع الرقمية = رموز غير قابلة للاستبدال (NFTs) 
+على عكس الرموز القابلة للاستبدال، مثل بيتكوين وإيثيريوم، حيث لا يمكن تمييز رمز عن آخر، فإن الرموز غير القابلة للاستبدال (NFTs) ، مثل (VGO) و (vIRL) و (ERC-721/1155) بها كل عنصر فريد بعينه.
+إن السلع الرقمية أو الرموز غير القابلة للاستبدال (NFTs) هي موضوعات يشيع الحديث عنها في عالم البلوكتشين اليوم.  ولكن في منتصف عام 2017، جرت مناقشات بين عدد قليل من المشاريع والمتحمسين للتشفير حول استخدام الرموز لتأمين العناصر الافتراضية في ألعاب الفيديو وتخزينها وإرسالها - كانت تلك النقاشات بين أولئك الذين فهموا ألعاب الفيديو. في ظل الشعبية العامة لألعاب الفيديو وفكرة أن الرموز غير القابلة للاستبدال (NFTs) يمكن أن تحل محل العناصر الافتراضية في لعبة فيديو يتحكم فيها ناشرو الألعاب مركزيًّّا، فقد رأينا العديد من سلاسل البروتوكولات تكرس مئات الملايين من الدولارات للاستثمار في الرموز غير القابلة للاستبدال (NFTs) وألعاب الفيديو.  مع معيار (ERC-721) المستند إلى الإيثيريوم الذي قاد بعد ذلك إلى معيار (ERC-1155)، بدأ العديد من مطوري ألعاب الفيديو في النظر في هذه الفرصة الجديدة لجذب اللاعبين حول فكرة الملكية الحقيقية لعناصرهم الافتراضية.  كانت السمة المتكررة لمشاريع البروتوكول هذه هي تحفيز المزيد من ناشري الألعاب لإنشاء الرموز غير القابلة للاستبدال (NFTs) لتعمل على سلسلتهم لأن ذلك من شأنه أن يدفع عملية التبني. 
+كانت رؤية بعض من أفضل 10 بروتوكولات تستكشف ومن ثم تركز بعد ذلك على أصول ألعاب الفيديو بمثابة لحظة مُرضية من منظور واكس (WAX)، لأننا ركزنا على هذا السوق منذ البداية وكنا نقول دائمًا أنه الطريق إلى الأمام. إن واكس (WAX) سلسلة بروتوكولات مخصصة تخصصًا فرديًا للسلع الرقمية، وكما توقعنا استنتج آخرون إلى أن ألعاب الفيديو هي بوابة التبني الجماعي لتقنية البلوكتشين. من المرجح أن يستخدم عدد أكبر من المستهلكين العناصر الافتراضية من ألعاب الفيديو والسلع الرقمية القائمة على البلوكتشين مقارنة بأي تطبيقات أخرى متاحة اليوم. وفي ظل وجود 2.3 مليار لاعب من جميع أنحاء العالم وإنفاق 140 مليار دولار سنويًا، فإن هذا الجمهور كبير الحجم بما يكفي وينفق ما يكفي من المال لدفع تقنية البلوكتشين قدمًا تجاه الاستخدام اليومي. نرى بدايات هذا الاعتماد بالفعل بالنظر إلى المقاييس اليومية على واكس (WAX).
+إننا نرى في العموم العديد من أسواق الرموز غير القابلة للاستبدال (NFT) تكافح لأنها تحاول التفاعل مباشرة مع العقود الذكية والعملات المشفرة.  إننا نعتقد اعتقادًا أساسيًا أن هذا النهج لا يؤدي إلا إلى استنزاف العملاء لأنه شاق للغاية وصعب. كما نعتقد؛ تشير القاعدة الصغيرة لعملاء الرموز غير القابلة للاستبدال (NFT) في السوق والنشاط المنخفض إلى أن العملاء يريدون شيئًا أسهل وأسرع وأرخص، بالإضافة إلى مدفوعات العملات الورقية.  نظرًا لأن واكس (WAX) تتمتع بأكبر قدر من السيولة مع مدفوعات العملات الورقية وسهولة استخدامها من طرف العملاء، فإننا نعتقد أن جميع العناصر ستنتهي متصلة بواكس (WAX) لاحقًا.
+إن كافة الطرق للسلع الرقمية تؤدي إلى واكس (WAX).
 
 
 <a id="markdown-\20-trillion-market-potential" name="\20-trillion-market-potential"></a>
 
-### \$2.0 Trillion Market Potential
-WAX's target market for digital goods is a superset comprised of virtual items from video games (\$140 billion in total sales, \$50 billion in secondary trading volume) and potentially tokenized products from consumer e-commerce (\$1.8 trillion of a global \$2.8 trillion e-commerce market). In our calculation, we add the primary sales of video games and video game items and secondary virtual item sales because the WAX Platform supports both. The subset of products we see tokenizable is \$1.8 trillion of the \$2.8 trillion e-commerce market. Today, taken together, that's about a \$2 trillion total market size for digital goods.
+### \إمكانات السوق تبلغ 2.0 تريليون دولار
+إن سوق واكس المستهدفة للسلع الرقمية هي مجموعة شاملة تتكون من عناصر افتراضية من ألعاب الفيديو (140 مليار دولار إجمالي المبيعات، و 50 مليار دولار حجم التداول الثانوي) ومنتجات رمزية محتملة من التجارة الإلكترونية الاستهلاكية (1.8 تريليون دولار من سوق التجارة الإلكترونية العالمية البالغ 2.8 تريليون دولار). طبقًا لحساباتنا، نضيف المبيعات الأساسية لألعاب الفيديو وعناصر ألعاب الفيديو ومبيعات العناصر الافتراضية الثانوية لأن منصة واكس (WAX) تدعم كليهما. تبلغ قيمة المجموعة الفرعية من المنتجات التي نرى قابليتها للترميز 1.8 تريليون دولار من سوق التجارة الإلكترونية البالغ 2.8 تريليون دولار. بإضافتهما اليوم معًا، يبلغ إجمالي حجم السوق 2 تريليون دولار تقريبًا للسلع الرقمية.
+ 
+هذا حجم كبير. بعد معالجة ما قيمته 550 مليون دولار من العناصر على شبكة الاختبار (testnet) لبلوكتشين بروتوكول واكس (WAX) في الأشهر الـ 12 الماضية، فنحن متأكدون تمامًا من إعجاب العملاء بما بنيناه حتى الآن. لكن أمامنا طريق طويل لنقطعه لإيجاد الإمكانيات التي نتصورها لواكس (WAX).
 
-That’s big. Having processed \$550+ million worth of items on the testnet of the WAX Protocol Blockchain in the last 12 months, we are fairly certain customers like what we have built so far. But we have a long way to go to capture the potential we envision for WAX.
 
 
 
 <a id="markdown-fiat-and-crypto-try-to-get-along" name="fiat-and-crypto-try-to-get-along"></a>
 
-### Fiat and Crypto try to Get Along
-Fiat and cryptocurrencies, for the foreseeable future, must co-exist so that platforms can take advantage of blockchain technology and also provide the convenience consumers expect using credit cards, debit cards, and ACH. Cryptocurrencies are not yet a primary payment method of choice in any major business segment and are generally considered an inconvenient way to pay. Although merchants are attracted to the idea of low fees and no chargebacks, volatile coin prices and the difficulty of the payment process itself impedes them from taking advantage of blockchain technology.
+### العملات الورقية (Fiat) والعملات المشفرة (Crypto) تحاولان التعايش سويًا
+في المستقبل المنظور؛ يجب أن تتعايش العملات الورقية والعملات المشفرة حتى تتمكن المنصات من الاستفادة من تقنية البلوكتشين وكذلك توفر الراحة التي يتوقعها المستهلكون باستخدام بطاقات الائتمان وبطاقات الخصم وغرفة المقاصة الآلية (ACH). فالعملات المشفرة ليست طريقة الدفع الأساسية المختارة في أي قطاع تجاري رئيسي وتعتبر طريقة غير ملائمة للدفع في العموم. على الرغم من انجذاب التجار إلى فكرة الرسوم المنخفضة وعدم رد المدفوعات، إلا أن أسعار العملات المتقلبة وصعوبة عملية الدفع نفسها تعوقهم عن الاستفادة من تقنية البلوكتشين.
 
 
 <a id="markdown-the-massive-hidden-cost-of-fiat-currency-conversion" name="the-massive-hidden-cost-of-fiat-currency-conversion"></a>
 
-### The Massive Hidden Cost of Fiat Currency Conversion
-Cross border trade accounted for \$25 trillion in value in 2018, representing 30% of global GDP. This trade is facilitated by 180 separate fiat currencies. Since most buyers and sellers conducting cross border commerce prefer their own native currency, a foreign exchange intermediary is needed to help settle the transaction. Of course, this help comes at a very steep - and often hidden - price. Currency conversion costs are embedded in the foreign exchange buy/sell spread. These currency conversion spreads are like a hidden tax amounting to hundreds of billions of dollars annually on global consumers and corporations. Where does this money go? It is captured by thousands of payment processors, banks, foreign exchange traders and other financial institutions.
+### التكلفة الخفية الهائلة لتحويل العملات الورقية (Fiat) 
+بلغت قيمة التجارة العابرة الحدود 25 تريليون دولار في عام 2018، ممثلة 30 ٪ من الناتج المحلي الإجمالي العالمي. تُسهل عمليات هذه التجارة من خلال 180 عملة ورقية منفصلة.  نظرًا لأن معظم المشترين والبائعين من المتاجرين عبر الحدود يفضلون عملاتهم الأصلية الخاصة بهم، فهناك حاجة إلى وسيط صرف أجنبي للمساعدة في تسوية المعاملات المالية. تأتي هذه المساعدة بالطبع بسعر باهظ للغاية -وغالبًا ما يكون مخفيًا -. حيث تُضمن تكاليف تحويل العملات في فرق شراء/بيع العملات الأجنبية.  يمكن تشبيه فروق تحويل العملات هذه بضريبة خفية تصل إلى مئات المليارات من الدولارات سنويًا على المستهلكين والشركات العالمية. أين تذهب هذه الأموال؟ يتحصل الآلاف من معالجي المدفوعات والبنوك وتجار العملات الأجنبية والمؤسسات المالية الأخرى على هذه الأموال.
 
-Now imagine if there was just one currency. If all prices were denominated in the same currency, and everyone used that common currency for payment, it would amount to a global dividend to humanity in an amount equal to such currency conversion costs.
+تخيل الآن إذا كانت هناك عملة واحدة فقط. وإذا كانت جميع الأسعار مقومة بالعملة نفسها واستخدم الجميع تلك العملة المشتركة للدفع، فسيكون ذلك بمثابة توزيعات أرباح عالمية للبشرية بمبلغ يساوي تكاليف تحويل العملات هذه.
 
-This ambitious (and unrealistic for the time being) idea is the inspiration for Facebook's stable coin. Facebook highlighted excessive transaction fees as one of the principal reasons for Libra Coin's creation. Facebook is well aware of the high payment processing costs consumers bear when making purchases, particularly small cross border purchases. These fees can sometimes exceed 50% for small transactions in less liquid currencies.
+هذه الفكرة الطموحة (غير الواقعية في الوقت الحاضر) هي مصدر إلهام لعملة فيسبوك المستقرة. حيث وضح فيسبوك أن رسوم المعاملات المفرطة كانت أحد الأسباب الرئيسية لإنشاء عملة ليبرا (Libra). يدرك فيسبوك جيدًا ارتفاع تكاليف معالجة المدفوعات التي يتحملها المستهلكون عند إجراء عمليات الشراء، خاصة عمليات الشراء الصغيرة العابرة للحدود. قد تتجاوز هذه الرسوم أحيانًا 50٪ من قيمة المعاملة في حالة المعاملات الصغيرة بعملات أقل سيولة.
 
-WAX identified the cross border consumer payment problem early on do to our experience operating Opskins, a digital goods exchange that serves a global audience. Most Opskins customer transactions involve a buyer and seller in different countries. And most transactions are sub \$25. We saw the opportunity to employ blockchain technology to make buying and selling digital goods with anyone in the world cheaper and faster.
+حددت واكس (WAX) مشكلة الدفع للمستهلكين عبر الحدود في وقت مبكر من خلال تجربتنا في تشغيل (Opskins)، وهي بورصة السلع الرقمية التي تخدم جمهورًا عالميًا. تتكون معظم معاملات عملاء (Opskins) من مشترٍ وبائعٍ في بلدان مختلفة.  ومعظم المعاملات تكون أقل من 25 دولارًا. لقد رأينا الفرصة لتوظيف تقنية البلوكتشين لجعل شراء السلع الرقمية وبيعها مع أي شخص في العالم أرخص وأسرع. 
 
 
 <a id="markdown-instantaneous-ownership-transfer" name="instantaneous-ownership-transfer"></a>
 
-### Instantaneous Ownership Transfer 
-Marketplaces for physical goods today are subject to the inherent friction of physicality -- objects are heavy, take up space, and have to be handled, packaged, shipped on a boat/truck/plane, tracked physically, scanned, and paid for at customs. We usually think of receiving the delivery, and hence ownership, as the equivalent. Today, physical "ownership" (possession) via e-commerce typically takes hours, days, or weeks.
+### نقل فوري للملكية 
+تخضع أسواق السلع المادية اليوم للاحتكاك المتأصل في طبيعتها المادية - فالأشياء ثقيلة وتشغل مساحة ويجب مناولتها وتعبئتها وشحنها على متن قارب / شاحنة / طائرة ، وتتبعها في الواقع ومسحها ضوئيًا ودفع ثمنها في الجمارك.   عادة ما نفكر في عملية استلام البضائع المرسلة وبالتالي نرى الملكية مكافئًا لذلك. اليوم، عادةً ما تستغرق "الملكية" (الحيازة) المادية عبر التجارة الإلكترونية ساعات أو أيامًا أو أسابيع.
 
-Yet, tokenized consumer goods in the vIRL dApp travel at the speed of networks between parties. That means customers can trade a pair of sneakers with someone in a different region globally and have possession of the tokenized good within seconds. No other technology allows the instantaneous transfer of ownership of consumer items no matter what the distance and jurisdiction. Possession is still subject to shipping, but as it turns out today, much commerce does not require possession, and more commerce is going in that direction.
+ومع ذلك، تنتقل السلع الاستهلاكية المميزة في تطبيقات (vIRL) اللامركزية  بنفس سرعة الشبكات بين الأطراف. وهذا يعني أنه يمكن للعملاء تداول زوج من الأحذية الرياضية مع شخص ما في منطقة مختلفة على مستوى العالم وأن يمتلكوا السلعة المميزة في غضون ثوانٍ. لا توجد تقنية أخرى تسمح بالنقل الفوري لملكية السلع الاستهلاكية بغض النظر عن المسافة والولاية. لا تزال الحيازة خاضعة للشحن، ولكن كما نرى اليوم فإن الكثير من التجارة لا تتطلب حيازة، والمزيد من التجارة تسير في هذا الاتجاه.
 
-In the case of vIRLs, this is especially true because they are tokenized physical collectibles, such as an expensive pair of sneakers. It is far more efficient to inspect and certify the sneakers once and to change hands many times digitally before the actual sneakers are pulled out of a warehouse and sent to the last person who redeems them. Rather than sending the item back and forth via mail each time it changes hands, the item stays put and ownership transfers digitally. vIRLs can change hands 200 times (or more) and accomplish in a week what would take more than a year to do if the sneakers had to move each time physically. In the case of collectors for expensive items, vIRLs are even more attractive because each time the item it touched or moved it can incur a cost for authentication, packaging and insurance, or add wear and tear to the item, degrading its value. viRLs help collectible items stay valuable and makes it easy for collectors to trade, sell, and ultimately increase the value of their inventory.
-
+في حالة (vIRLs)، هذا صحيح بالأخص لأنها عبارة عن مقتنيات مادية رمزية، مثل زوج من أحذية رياضية باهظة الثمن. إن فحص الأحذية الرياضية وإقرار أصليتها مرة واحدة وتغيير الأيدي المالكة لها عدة مرات رقميًا قبل سحب الأحذية الرياضية فعليُا من المستودع وإرسالها إلى آخر شخص طالب باستردادها أكثر فاعلية من نقلها من فرد لآخر. فبدلاً من إرسال العنصر ذهابًا وإيابًا عبر البريد في كل مرة يتغير فيها المالك، يظل العنصر في مكانه وتنقل الملكية رقميًا. يمكن لـ (vIRLs) أن تغير المالك لمرات تصل إلى 200 مرة (أو أكثر) وأن تنجز في غضون أسبوع ما قد يستغرق أكثر من عام إذا كان على الأحذية الرياضية أن تتحرك في كل مرة من مكان لآخر. في حالة هواة جمع السلع باهظة الثمن، تكون (vIRLs) أكثر جاذبية لأنه في كل مرة يُلمس فيها العنصر أو يُنقل يمكن أن يتسبب في تكلفة بسبب المصادقة والتعبئة والتأمين، أو حدوث الإهلاك للعنصر مما يقلل من قيمته. يساعد (viRLs) العناصر المقتناه على البقاء ذات قيمة ويسهل على المتداولين التداول والبيع وزيادة قيمة مخزونهم في النهاية.
 
 
 <a id="markdown-the-global-liquidity-pool-is-a-barrier-to-entry" name="the-global-liquidity-pool-is-a-barrier-to-entry"></a>
 
-### The Global Liquidity Pool is a Barrier to Entry
-Because vIRL digital goods are so easy to transfer on WAX, the frequency of trades increases and makes the marketplace more "liquid." That means items sell faster and, in turn, more items are attracted to the marketplace.
+### يمثل مجمع السيولة العالمي عائقًا أمام الدخول
+نظرًا لسهولة نقل البضائع الرقمية من (vIRL) على واكس (WAX) ، تزداد تكرارية الصفقات مما يجعل السوق "أكثر سيولة". وهذا يعني إمكانية بيع العناصر بيعًا أسرع وبالتالي جذب المزيد من العناصر إلى السوق.
 
-The other advantage to WAX's model is the global supply of items that everyone gets access to when launching a dApp. Getting inventory immediately from anywhere in the world is very valuable for a store. Likewise, new stores continually add new products for sale that might end up selling on some other marketplace. Buyers and sellers benefit each other and the larger the liquidity pool, the greater the network effect and the harder it is to replicate what WAX has built.
+الميزة الأخرى لنموذج واكس (WAX) هي العرض العالمي للعناصر التي يمكن للجميع الوصول إليها عند إطلاق تطبيقٍ لامركزيٍ. إن إمكانية معرفة المخزون على الفور من أي مكان في العالم بمثابة خاصية قيّمة للغاية لأي متجر. وبالمثل، تضيف المتاجر الجديدة باستمرار منتجات جديدة للبيع، قد ينتهي بها الأمر بالبيع في بعض الأسواق الأخرى. يستفيد المشترون والبائعون من بعضهم البعض وكلما زاد حجم السيولة زاد تأثير الشبكة وأصبح من الصعب تكرار ما بنته واكس (WAX).
+
 
 
 <a id="markdown-esports-influencers-and-monetization-of-attention" name="esports-influencers-and-monetization-of-attention"></a>
 
-### eSports, Influencers, and Monetization of Attention
-A significant source of video content related to video games comes from eSports events, as well as individual YouTube and Twitch influencers playing games or talking about games. The magnitude of time spent watching video games is a staggering 84.7 billion hours per year. Based on a 2017 report by SUPERDATA, roughly 670 million people are watching video game content instead of primetime TV. The staggering amount of attention consumers give to video content creators presents a potentially lucrative and untapped opportunity for WAX.
+### الرياضة الإلكترونية، المؤثرين، وتحويل الاهتمام والانتباه إلى قيمة مالية 
+تمثل  أحداث الرياضة الإلكترونية مصدرًا هامًا لمحتوى الفيديو المرتبط بألعاب الفيديو، بالإضافة إلى الأشخاص المؤثرين على YouTube و Twitch الذين يلعبون الألعاب أو يتحدثون عنها. يُقدر الوقت الذي يُقضي في مشاهدة ألعاب الفيديو تقديرًا مذهلًا ليبلغ 84.7 مليار ساعة في السنة. استنادًا إلى تقرير عام 2017 الصادر عن سوبر داتا (SUPERDATA)، يشاهد ما يقرب من 670 مليون شخص محتوى ألعاب الفيديو بدلاً من التلفزيون في وقت الذروة.  يمثل هذا القدر الهائل من الاهتمام الذي يوليه المستهلكون لمنشئي محتوى الفيديو فرصة لواكس (WAX) تتصف بالربحية كما أنها غير مستغلة بعد.
 
-One revenue stream for content creators comes from selling merchandise. The integration of merchandise and streaming content is still growing, while digital items appear to sell very fast and drive significant engagement. We have found with our partnerships that using WAX for digital items, as well as vIRLs, excites viewers because they can trade them instantly. Streamers using vIRLs on WAX can sell much more merchandise faster, attract and engage more viewers, and ultimately make money at higher margins than they can with traditional e-commerce.
+بينما يمثل بيع السلع أحد مصادر الإيرادات لمنشئي المحتوى. لا تزال عملية التكامل بين السلع ومحتوى البث الرقمي في مرحلة النمو، بينما يبدو على الجانب الآخر أن العناصر الرقمية تبيع بسرعة كبيرة وتحقق تفاعلًا كبيرًا. لقد وجدنا مع شراكاتنا أن استخدام واكس (WAX) للعناصر الرقمية وكذلك (vIRLs) يثير المشاهدين لأنه يمكنهم تداولها على الفور. يمكن لمقدمي البث الذين يستخدمون (vIRLs) على واكس (WAX) بيع المزيد من البضائع بيعًا أسرع، وجذب المزيد من المشاهدين وإشراكهم وفي النهاية كسب المال بهوامش ربح أعلى مما يمكنهم من التجارة الإلكترونية التقليدية.
 
-Secondary markets create revenue that didn't exist before. When an audience member sells an item again to someone else, the content creator or primary seller can earn another transaction fee from the seller. Never before could merchandise sellers make a share of the money when their products resell later because they never had an opportunity to participate directly in secondary
-markets.
+تحقق الأسواق الثانوية عائدات لم تكن موجودة من قبل. عندما يبيع أحد أفراد الجمهور عنصرًا ما مرة أخرى إلى شخص آخر، يمكن لمنشئ المحتوى أو البائع الأساسي أن يتكسب من البائع رسومًا أخرى للمعاملة. لم يسبق لبائعي البضائع الحصول على نسبة من المال عند إعادة بيع منتجاتهم في وقت لاحق، حيث لم تتح لهم الفرصة للمشاركة مباشرة في الأسواق الثانوية.
+يمنح واكس (WAX) ناشري الألعاب وسيلة لتحقيق الدخل من عملائهم الذين عادة لا يشترون أو ينفقون المال على ألعابهم. بينما يقضي اللاعبون الذين لا يدفعون مقابلًا كميات هائلة من الوقت للعب الألعاب المجانية، يمكن للناشرين البدء في تقديم (vIRLs) من خلال واكس (WAX). على غرار "سوبريم دروب" (Supreme drop)، تتوفر كميات محدودة من البضائع لمجموعة مختارة من العملاء.  على سبيل المثال، تخيل لاعبًا للعبة فورتنايت (Fortnite) لديه فرصة لشراء لوحة مفاتيح فورتنايت (Fortnite) ذات إصدار محدود بالإضافة إلى لوحة الفأرة وغلاف للجوال والأحذية الرياضية وغطاء للرأس بعد قضاء ساعات في لعب اللعبة.
 
-WAX gives game publishers a way to monetize their customers who usually don't buy or spend money in their games. While non-paying players in free-to-play games spend enormous amounts of time in the game, publishers can start to offer vIRLs through WAX. Similar to a [Supreme drop](https://www.supremecommunity.com/season/spring-summer2019/droplists/), limited amounts of merchandise are available to a select group of customers. For instance, imagine a Fortnite player who has a chance to buy a limited-edition Fortnite keyboard, mousepad, mobile phone case, sneakers, and hoodie after spending hours playing the game.
-
-The brand affinity is high for players who then look for merchandise that reflects their interest. Different from an ad, this is a direct integrated shopping experience that can tie to game activity, promotions, or interact with streamers who create content related to the game. We believe this model, when proven through well-executed trials, will sweep through the entire video game industry to capture revenue from "non-performing" customers not spending money in their games. Currently, there are several game publishers currently working to roll out tests with WAX and vIRLs within their games.
+إن الانجذاب بين المستهلك والعلامة التجارية مرتفع للاعبين الذين سيبحثون عن سلع تعكس اهتمامهم. يختلف هذا عن الإعلانات، فهذه تجربة تسوق متكاملة مباشرة يمكن أن ربطها بنشاط اللعبة أو عروضها الترويجية أو التفاعل مع صناع المحتوى المتعلق باللعبة والذي يُبث على الإنترنت. إننا نعتقد أن هذا النموذج سيجتاح عالم ألعاب الفيديو بعدما يثبت نجاحه من خلال التجارب المنفذة بعناية، ليحصل على الإيرادات من العملاء "الخاملين" الذين لا ينفقون المال في ألعابهم. يوجد حاليًا العديد من ناشري الألعاب الذين يعملون حاليًا على طرح اختبارات باستخدام واكس (WAX) و (vIRLs) داخل ألعابهم.
 
 
 <a id="markdown-the-dawn-of-blockchain-gaming" name="the-dawn-of-blockchain-gaming"></a>
 
-### The Dawn of Blockchain Gaming
-NFTs in blockchain games are not yet an extensive ecosystem in terms of the trading volume. However, there is significant interest and investment to create the next video game hit that uses blockchain technology.
+### فَجر ألعاب البلوكتشين
+إن الرموز غير القابلة للاستبدال (NFTs) في ألعاب البلوكتشين ليست نظامًا بيئيًا شاملاً حتى الآن من حيث حجم التداول.   ومع ذلك، فهناك اهتمام كبير واستثمارات لإنشاء لعبة الفيديو واسعة الانتشار التالية التي تستخدم تقنية البلوكتشين.
 
-We remain excited about new classes of games from talented independent game publishers that have customer-owned assets in them and encourage trading and creating scarcity in their items. These game publishers include, but not limited to, Animoca Brands, Pixowl, Mythical Games, and Neon District. We estimate that we are probably a year or more away from seeing a smash hit that embraces blockchain.
+ما زلنا متحمسين لفئات جديدة من الألعاب من ناشري الألعاب الموهوبين المستقلين الذين يمتلكون أصولًا مملوكة للعملاء ويشجعون التداول ويعملون على خلق ندرة لسلعهم.  يشمل ناشرو الألعاب على سبيل المثال لا الحصر: علامات التجارية التابعة لأنيموكا (Animoca) وبيكساول (Pixowl) وميثيكال جيمز (Mythical Games) ونيون ديستريكت (Neon District). نُقدّر أننا قد نكون على بعد عام أو أكثر من رؤية إصدار ساحق يتبنى تقنية البلوكتشين.
 
-After it happens, the larger, older, more established game publishers will look to adopt it in their own way. In the meantime, we are working with smaller publishers with very dedicated audiences. The benefit of these audiences is that they are very loyal, and customer acquisition is easier because they are tightly-knit through influencer channels.
-
-
-# Solution: The Value Proposition of WAX 
-The WAX Platform solves a problem for businesses and entrepreneurs who want to make money and participate in the rapidly growing global digital goods market. The global digital goods market continues to expand because people's time and attention continue to go towards online forms of entertainment, such as video games, social media, movies, music, and digital books. Also, another 3+ billion people are expected to come online to the internet in the next five years.
+بعد حدوث ذلك، سيتطلع ناشرو الألعاب الأكبر والأقدم والأكثر رسوخًا إلى تبنيها تقنية البلوكتشين ولكن بطريقتهم الخاصة. في هذه الأثناء، نعمل مع ناشرين أصغر حجمًا ممن لديهم جمهور شديد التفاني. تكمن فائدة هذه الجماهير في أنها مخلصة للغاية، وأن اكتساب العملاء أسهل لأنهم مترابطون بشدة من خلال قنوات المؤثرين.
 
 
-# What is the W.A.S.P. Strategy
-On the WAX Platform, the **W.A.S.P.** Strategy captures the power a dApp can access and quickly build to reach existing WAX customers while also making new ones. The WAX Platform consists of:
 
-**W**AX Blockchain +
-
-decentralized marketplace (similar to **A**mazon) +
-
-decentralized virtual item trading and generation (similar to **S**team) +
-
-decentralized wallets (similar to **P**ayPal)
-
-The WAX Blockchain provides a token-based economy that operates on resources provided by the consumers of those resources. In that way, the ecosystem pays for itself, and the participants guide its development and benefit directly from its growth.
-
-The WAX microservice layer delivers on all the functions that a well-designed marketplace needs to grow and scale without a massive investment in infrastructure.
-
-We describe the entire WAX Platform, i.e., WAX Protocol Blockchain functions and the microservice layer in the next section.
+# الحل: عرض قيمة واكس (WAX)
+تحل منصة واكس (WAX) مشكلة للشركات ورجال الأعمال الذين يريدون كسب المال والمشاركة في سوق السلع الرقمية العالمية سريعة النمو. يستمر سوق السلع الرقمية العالمية في التوسع في ظل استمرار تحول أوقات الناس واهتماماتهم نحو أشكال الترفيه عبر الإنترنت، مثل ألعاب الفيديو ووسائل التواصل الاجتماعي والأفلام والموسيقى والكتب الرقمية. ومن المتوقع أيضًا أن يدخل 3 مليار شخص آخر إلى عالم الإنترنت في السنوات الخمس المقبلة.
 
 
-# How the WAX Platform Works
-With the combination of the WAX Protocol Blockchain and the microservices layer, the WAX Platform provides customers with a full suite of blockchain-based tools. WAX Platform is safe and convenient for creating, buying, selling, and trading virtual items to anyone, anywhere.
+# ما إستراتيجية (W.A.S.P)؟ 
+على منصة واكس (WAX) ، تستحوذ استراتيجية W.A.S.P. على القوة التي يمكن للتطبيقات اللامركزية الوصول إليها ومن ثم البناء عليها سريعًا للوصول إلى عملاء واكس (WAX) الحاليين أثناء اجتذاب عملاء جدد أيضًا. تتكون منصة واكس (WAX) من:
+
+واكس (WAX) بلوكتشين+
+
+السوق اللامركزي (على غرار أمازون)
+
+التداول والإنشاء اللامركزي للعناصر الافتراضية لامركزية (على غرار إس تيم(S team )
+
+المحافظ المالية اللامركزية (على غرار باي بال)
+
+يوفر بلوكتشين واكس (WAX) اقتصادًا قائمًا على الرمز (token-based economy) ويعمل على الموارد التي يوفرها المستهلكون لتلك الموارد. بهذه الطريقة؛ فإن النظام البيئي  يدفع لنفسه، ويوجه المشاركون تطويره ويستفيدون مباشرة من نموه.
+
+تقدم طبقة الخدمات المصغرة على واكس (WAX) جميع الوظائف التي يحتاجها السوق المصمم جيدًا للنمو والتوسع دون الحاجة لاستثمار هائل في البنية التحتية.
+
+نحن نصف منصة واكس (WAX) بأكملها، أي وظائف بلوكتشين بروتوكول واكس (WAX Protocol Blockchain) وطبقة الخدمات المصغرة في القسم التالي.
+
+# كيف تعمل منصة واكس (WAX)
+من خلال الجمع بين بلوكتشين بروتوكول واكس وطبقة الخدمات المصغرة، توفر منصة واكس (WAX) للعملاء مجموعة كاملة من الأدوات القائمة على البلوكتشين. تتصف منصة واكس (WAX) بأنها آمنة ومريحة لإنشاء وشراء وبيع وتداول العناصر الافتراضية لأي شخص في أي مكان.
 
 
 <a id="markdown-wax-protocol-blockchain" name="wax-protocol-blockchain"></a>
 
-## WAX Protocol Blockchain 
+## البلوكتشين الخاص ببروتوكول واكس (WAX) 
 
 
 <a id="markdown-consensus-model" name="consensus-model"></a>
 
-### Consensus Model
-WAX uses a [Delegated Proof of Stake (DPoS)](#delegated-proof-of-stake-dpos) consensus algorithm which relies upon a group of WAX Guilds (also known as block producers) to manage block production.
-
+### نموذج الإجماع
+تستخدم واكس [خوارزمية إثبات الحصة بالتفويض (DPoS)](#delegated-proof-of-stake-dpos) والتي تعتمد على مجموعة من نقابات واكس (WAX) (المعروفة أيضًا باسم منتجي الكتل) لإدارة إنتاج الكتل.
 
 <a id="markdown-wax-token-model" name="wax-token-model"></a>
 
-### WAX Token Model 
-The WAX Token model is designed to drive several activities to grow the WAX ecosystem: staking, rewards, and voting.
-
+### نموذج رمز واكس (WAX)
+صُمم نموذج رمز واكس (WAX Token) لدفع العديد من الأنشطة لتنمية النظام البيئي لواكس (WAX): التجميد والمكافآت والتصويت.
 
 <a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
 
-#### WAX Staking Rewards
-WAX Staking Rewards is the voting and rewards system we designed to increase community participation in the selection of guilds and blockchain improvement proposals. Here is what token holders can do with their WAX Tokens:
+#### مكافآت واكس للتجميد (WAX) 
+إن مكافآت واكس للتجميد (WAX Staking Rewards) نظامٌ للتصويت والمكافآت الذي صممناه لزيادة مشاركة المجتمع في اختيار النقابات ومقترحات تحسين البلوكتشين. إليك ما يمكن لحاملي الرمز فعله باستخدام رموز واكس (WAX) الخاصة بهم:
 
-1.  **Stake WAX Tokens.** If token holders have unstaked WAX Tokens, they need to stake them using a Lynx, Sqrl, Scatter or another compatible wallet. [Genesis WAX Protocol Tokens](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years) are automatically staked.
+1.  **تجميد رموز واكس (Stake WAX Tokens).**). إذا كان حاملو الرمز لديهم رموز واكس (WAX) غير مجمدة، فيجب عليهم تجميدها باستخدام Lynx أو Sqrl أو Scatter أو أي محفظة أخرى متوافقة. بينما تجمد رموز بروتوكول التكوين لواكس (WAX) تلقائيًا.(https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years)
 
-2.  **Vote via a compatible wallet.** If token holders have Genesis WAX Protocol Tokens in a WAX Blockchain account, they must connect their compatible wallet to the account to vote. All WAX Token holders can vote for up to 30 WAX Guilds. The strength of their vote for any particular guild depends on the number of WAX Tokens they stake.
+2.  **التصويت عبر محفظة متوافقة** . إذا كان لدى حاملي الرموز رموز التكوين لبروتوكول واكس (WAX Protocol) في حساب بلوكتين واكس (WAX)، فيجب عليهم توصيل محفظتهم المتوافقة بالحساب للتصويت. يمكن لجميع حاملي رموز واكس (WAX Token) التصويت لما يصل إلى 30 نقابة واكس (WAX). تعتمد قوة تصويتهم لأي نقابة معينة على عدد رموز واكس (WAX) التي يجمدونها.
 
-3.  **Earn WAX Staking Rewards.** WAX Token holders who stake their tokens and then vote with them earn additional WAX Tokens. These earnings are called WAX Staking Rewards and are issued directly from the WAX Blockchain.
+3.  **اربح مكافآت تجميد واكس (WAX Staking Rewards).** يحصل حاملو رموز واكس (WAX Token) الذين يجمدون رموزهم ثم يصوتون بها على رموز واكس (WAX) إضافية. تسمى هذه الأرباح بأرباح تجميد واكس (WAX Staking Rewards)  وتُصدر مباشرةً من بلوكتشين واكس (WAX).
 
-dApp developers also benefit from staking their WAX Tokens because it helps reserve system resources (CPU and Network). RAM allocation can be purchased and sold to meet the needs of the developer. The staking mechanism and WAX Staking Rewards combination make no-fee transactions possible. We don't charge dApp developers for running the infrastructure that enables the processing of transactions due to Guild Rewards. So by staking tokens, dApp developers claim the RAM allocation necessary. It also prevents network spam from locking out legitimate transactions because everyone is rate-limited, and based on their allocation.
+يستفيد مطورو التطبيقات اللامركزية أيضًا من تجميد رموز واكس (WAX) الخاصة بهم لأنها تساعد في حجز موارد النظام (وحدة المعالجة المركزية والشبكة). يمكن شراء وبيع تخصيصات ذاكرة الوصول العشوائي (RAM) لتلبية احتياجات المُطوّر. تجعل آلية التجميد وأرباح تجميد واكس (WAX Staking Rewards) من المعاملات بدون رسوم أمرًا ممكنًا. إننا لا نفرض رسومًا على مطوري التطبيقات اللامركزية (dApp) نظير تشغيل البنية التحتية التي تمكن من معالجة المعاملات وذلك بسبب مكافآت النقابة. لذا من خلال تجميد الرموز، يطالب مطورو التطبيقات اللامركزية بتخصيص ذاكرة الوصول العشوائي اللازمة.  كما يمنع خاصية حماية الشبكة من الإزعاج (Spam) من حظر المعاملات المشروعة لأن الجميع محدود المقابل على أساس تخصيصاتهم. 
 
 
 <a id="markdown-what-functions-can-i-perform-by-staking-my-wax" name="what-functions-can-i-perform-by-staking-my-wax"></a>
