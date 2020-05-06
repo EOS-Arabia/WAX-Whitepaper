@@ -293,90 +293,90 @@
 
 <a id="markdown-what-functions-can-i-perform-by-staking-my-wax" name="what-functions-can-i-perform-by-staking-my-wax"></a>
 
-#### What functions can I perform by staking my WAX?
-Staking WAX Tokens allows token holders to vote on the WAX Blockchain, and earn WAX Staking Rewards for doing so. Token holders must vote weekly to maintain the strongest vote strength and earn maximum rewards (find more details on vote strength in the next section). There are three types of voting on WAX:
+#### ما الوظائف التي يمكنني القيام بها عن طريق تجميد الواكس (WAX) الخاص بي؟
+يسمح تجميد رموز واكس (WAX Tokens) لحاملي الرموز بالتصويت على بلوكتشين واكس (WAX)، وكسب مكافآت تجميد واكس (WAX) نظير قيامهم بذلك. يجب على حاملي الرموز التصويت أسبوعيًا للحفاظ على أشد قوة تصويت وكسب أقصى قدر من المكافآت (يمكنك العثور على مزيد من التفاصيل حول قوة التصويت في القسم التالي). هناك ثلاثة أنواع من التصويت على واكس (WAX):
 
--   **Guild voting:** Stake a fixed amount of WAX Tokens to vote for guilds. For example, if staking 1,000 WAX Tokens, token holders may assign 1,000 votes each for up to 30 different guild candidates.
+-   **تصويت النقابة:** تجميد كمية ثابتة من رموز واكس (WAX) للتصويت للنقابات. على سبيل المثال، في حالة تجميد 1000 رمزًا لواكس (WAX)، يمكن لحاملي الرمز تعيين 1000 صوت لكل منها لما يصل إلى 30 مرشحًا مختلفًا للنقابة.
 
--   **Proxy voting:** Designate a proxy, who then votes on token holders’ behalf using their staked WAX, which earns them WAX Staking Rewards. If a proxy does not vote, it does not affect the token holder’s vote strength. However, they need to keep their proxied vote updated to retain full voting strength similar to guild voting.
+-   **التصويت بالوكالة:** تعيين وكيل يُصوتبعد ذلك نيابة عن حاملي الرمز باستخدام واكس المجمد (WAX)، الذي يكسبهم أرباح تجميد واكس (WAX  Staking Rewards). إذا لم يصوت الوكيل فلن يؤثر ذلك على قوة تصويت حامل الرمز. ومع ذلك، يحتاجون إلى الحفاظ على تحديث تصويتهم بالوكالة للاحتفاظ بقوة تصويت كاملة مماثلة لتصويت النقابات.
 
--   **Worker Proposal voting (post-mainnet launch):** Stake WAX Tokens to vote for proposals that are put forth by other WAX Token holders.
+-   **التصويت على مقترح العمال (إطلاق ما بعد الشبكة الرئيسية mainnet):تجميد رموز واكس (WAX) للتصويت على الاقتراحات التي تطرح بواسطة حاملي رموز واكس (WAX) الآخرين.
 
 
 <a id="markdown-how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens" name="how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens"></a>
 
-#### How do I earn WAX Staking Rewards by staking my WAX Tokens?
-Token holders can earn more WAX Tokens every day with WAX Staking Rewards just by voting. Each day, a set number of WAX Tokens get set aside for WAX Staking Rewards. The number of tokens each WAX Token holder receives daily depends on their stake weight, relative to other stakers. For example, if a token holder’s stake weight amounts to 0.5% of the aggregate stake weight on any given day, they receive 0.5% of the WAX Staking Rewards amount. The voter's current stake weight determines the amount of WAX Staking Rewards given to them.
+#### كيف يمكنني ربح مكافآت تجميد واكس (WAX) عن طريق تجميد رموز واكس (WAX) الخاصة بي؟
+يمكن لحاملي الرموز كسب المزيد من رموز واكس (WAX) كل يوم مع مكافآت واكس للتجميد (WAX Staking Rewards) فقط عن طريق التصويت. كل يوم، يُخصص عدد محدد من رموز واكس (WAX) للحصول على مكافآت واكس للتجميد (WAX Staking Rewards) . يعتمد عدد الرموز التي يحصل عليها كل حامل لرمز واكس يوميًا على وزن الحصة الخاصة به نسبة إلى الأطراف الأخرى. على سبيل المثال، إذا كان وزن حصة صاحب الرمز المميز 0.5٪ من إجمالي وزن الحصة في أي يوم معين، فإنه يحصل على 0.5٪ من مبلغ مكافآت واكس للتجميد (WAX Staking Rewards) . يحدد وزن الحصة الحالية للناخب مقدار مكافآت واكس للتجميد (WAX Staking Rewards) الممنوحة لهم.
 
 ![Voter's stake weight determines the amount of WAX Staking Rewards given to them](media/voters-stake-weight-calculation.png)
 
--   **Stake weight** is the number of WAX Tokens currently staked multiplied by vote strength.
+-   **وزن الحصة** هو عدد رموز واكس (WAX) المجمدة حاليًا مضروبة في قوة التصويت.
 
--   **Vote strength** is a number between 0 and 1, for example, 0.08 or 0.25, with 1 being full strength. If a token holder votes weekly, then they maintain the highest possible vote strength. If they don’t vote weekly, their vote strength decays. Stake weight starts at and remains at 0 until they vote, at which point it increases to 1.
+-   **قوة التصويت** رقم بين 0 و 1، على سبيل المثال ، 0.08 أو 0.25 ، مع كون 1 ممثلًا للقوة الكاملة. إذا صوت حامل الرمز أسبوعيًا فإنه يحتفظ بأعلى قوة تصويت ممكنة. وإذا لم يصوت أسبوعيًا فإن قوة تصويته تتحلل. يبدأ وزن الحصة عند 0 ويظل عند 0 حتى يحدث التصويت، وعند هذه النقطة يرتفع إلى 1.
 
-For example, if a token holder votes in any given week, their vote strength is then 1. If they do not vote again, then their vote strength decays until it reaches zero. They can increase it back to 1 just by voting.
+
+ 
+على سبيل المثال، إذا صوت حامل الرمز في أي أسبوع بعينه تكون قوة صوته 1. وإذا لم يصوت مرة أخرى فستتحلل قوته حتى تصل إلى الصفر. يمكنهم زيادتها إلى 1 فقط عن طريق التصويت.
 
 ![Voter strength](media/voter-strength.png)
 
-Therefore, voting maximizes WAX Staking Rewards. Additionally, token holders contribute to the selection of quality guilds and proposals - supporting the overall health of the WAX Blockchain. We plan to introduce additional types of WAX Staking Rewards in the future.
-
+لذلك، يزيد التصويت من مكافآت واكس للتجميد (WAX Staking Rewards). بالإضافة إلى ذلك، يساهم حاملو الرمز في اختيار النقابات والمقترحات عالية الجودة - دعم الصحة العامة لبلوكتشين واكس (WAX Blockchain) . نخطط لتقديم أنواع إضافية من مكافآت واكس للتجميد (WAX Staking Rewards) في المستقبل.
 
 <a id="markdown-wax-guilds-and-wax-guild-rewards" name="wax-guilds-and-wax-guild-rewards"></a>
 
-#### WAX Guilds and WAX Guild Rewards
-The WAX Blockchain has 21 WAX Guilds who earn rewards for producing blocks. These WAX Guild Rewards are granted based on the number of blocks produced by each WAX Guild. Standby Guilds, or reserve guilds, operate as "backup operators" that earn a share of WAX Guild Rewards for participating and demonstrating their ability to process a block when randomly requested.
-
+#### نقابات واكس (WAX) ومكافآت نقابة واكس (WAX)
+يحتوي بلوكتشين واكس (WAX) على 21 نقابة واكس (WAX) ممن يكسبون مكافآت لإنتاج الكتل. تُمنح مكافآت نقابات واكس (WAX) هذه بناءً على عدد الكتل التي تنتجها كل نقابة واكس (WAX). تضطلع النقابات الاحتياطية بدور "المشغلين الاحتياطيين" الذين يحصلون على حصة من مكافآت نقابة واكس (WAX) للمشاركة وإثبات قدرتهم على معالجة الكتل عند طلبها طلبًا عشوائيًا.
 
 <a id="markdown-wax-core-performance-metrics" name="wax-core-performance-metrics"></a>
 
-### WAX Core Performance Metrics 
-WAX produces a block precisely every 0.5 seconds, and one WAX Guild is authorized to produce a block at a time. If a block does not get produced at the scheduled time, the block for that time slot gets skipped. The transactions remain in the memory pool waiting for the next guild to include them. Similar blockchains have achieved 3,000 transactions per second, which exceed the average transactions per second that Visa processed by nearly 2x. WAX is capable of the same speed and as such, WAX is one of the fastest, potentially highest-throughput blockchains on the market.
+### مقاييس الأداء الأساسية لواكس (WAX)
+يُنتج واكس (WAX) كتلة كل 0.5 ثانية بالتحديد، ويُصرح لنقابة واكس (WAX) واحدة بإنتاج كتلة في المرة الواحدة. إذا لم تُنتج الكتلة في الوقت المحدد وفقًا للجدول، فستُتخطى هذه الكتلة الخاصة بهذا الوقت المحدد. تبقى المعاملات في مُجمّع الذاكرة في انتظار النقابة التالية لتضمينها.  حققت أنواع البلوكتشين المماثلة 3000 معاملة في الثانية، مما يتجاوز متوسط المعاملات في الثانية التي تعالجها "فيزا" بنحو الضعفين. تتميز واكس (WAX) بقدرتها على تقديم على نفس السرعة وبذلك فإن واكس (WAX) واحدة من أسرع البلوكتشين وأكثرها إمكانية على توفير إنتاجية عالية في السوق.
 
 
 <a id="markdown-delegated-proof-of-stake-dpos" name="delegated-proof-of-stake-dpos"></a>
 
-### Delegated Proof of Stake (DPoS)
-WAX utilizes the DPoS decentralized consensus algorithm to optimize the performance of applications on the blockchain. DPoS also optimizes the nominal condition of 100% participation of honest nodes with robust network connections. Incentives for WAX Guilds help keep them honest, which results in the trustworthiness of the network. Otherwise, the WAX Guild risks losing its position in the network and missing out on earning WAX Guild Rewards. 
+### إثبات الحصة بالتفويض (DPoS)
+يستخدم واكس (WAX) خوارزمية إجماع إثبات الحصة بالتفويض (DPoS) اللامركزية لتحسين أداء التطبيقات على البلوكتشين. يعمل إثبات الحصة بالتفويض (DPoS) أيضًا على تحسين الحالة الاسمية لمشاركة العُقد الصادقة بنسبة 100٪ مع اتصالات قوية للشبكة. تساعد حوافز نقابات واكس (WAX Guilds) في الحفاظ على صدقهم مما يؤدي بالتبعية إلى مصداقية الشبكة. خلاف ذلك، فإن نقابة واكس (WAX Guild) تخاطر بفقدان موقعها في الشبكة وتفويت مكسب مكافآت نقابات واكس (WAX Guild).
 
-DPoS is secure in the face of the corruption of a significant minority of producers. Token holders may select WAX Guilds through a continuous approval voting system. To get an opportunity to produce blocks, token holders can persuade other token holders to vote for them.
-
-Every 0.5 seconds, blocks get produced on the WAX Blockchain, and one WAX Guild gets authorized to produce a block at any given point in time. If a block does not get produced at the scheduled time, the block for that time slot gets skipped. When one or more blocks get skipped, there is a 0.5 or more second gap in the blockchain. To decentivize skipping blocks, WAX Guilds don’t receive their WAX Guild Rewards if they produce 50% or less of their scheduled blocks.
+إن إثبات الحصة بالتفويض (DPoS) آمن في مواجهة فساد أقلية معتبرة من المنتجين. يجوز لحاملي الرموز اختيار نقابات واكس (WAX Guilds) من خلال نظام التصويت المستمر للموافقة. للحصول على فرصة لإنتاج الكتل، يمكن لحاملي الرمز إقناع حاملي الرمز الآخرين بالتصويت لهم.
+تنتج الكتل كل 0.5 ثانية على بلوكتشين واكس (WAX)، وتُفوّض نقابة واكس (WAX) لإنتاج كتلة في أي وقت معين. إذا لم تُنتج الكتلة في الوقت المحدد وفقًا للجدول، فستُتخطى هذه الكتلة الخاصة بهذا الوقت المحدد.
+ عند تخطي كتلة واحدة أو أكثر، يكون هناك فجوة زمنية قدرها نصف ثانية (0.5) أو أكثر في البلوكتشين. للحد من ظاهرة تخطي الكتل، لا تتلقى نقابات واكس (WAX) مكافآتها (WAX Guild Rewards) إذا كانت تنتج 50٪ أو أقل من الكتل المجدولة.
 
 
 <a id="markdown-byzantine-fault-tolerance" name="byzantine-fault-tolerance"></a>
 
-### Byzantine Fault Tolerance
-[Byzantine Fault Tolerance (BFT)](https://en.wikipedia.org/wiki/Byzantine_fault) is achieved by a rule that strongly discourages WAX Guilds from signing two blocks at the same block height or timestamp. Since a central authority does not control blockchains, the absence of BFT poses a risk of a peer transmitting and posting false transaction, nullifying the blockchain's reliability. Bottom line, BFTs guard against catastrophic failures and mitigate against the influence of these malicious nodes.
+### سماحية الخطأ البيزنطي
+[Byzantine Fault Tolerance (BFT)](https://en.wikipedia.org/wiki/Byzantine_fault) تتحقق سماحية الخطأ البيزنطية (BFT) من خلال قاعدة تثني نقابات واكس بشدة (WAX) عن التوقيع على كتلتين لهما نفس ارتفاع الكتلة أو الطابع الزمني. نظرًا لأن السلطة المركزية لا تتحكم في البلوكتشين، فإن عدم وجود سماحية الخطا البيزنطي (BFT) يُشكل خطرًا مثل إرسال الأقران ونشر المعاملات الكاذبة، مما يلغي موثوقية البلوكتشين.  خلاصة القول، تحرس سماحيات الخطأ البيزنطي (BFTs) من الفشل الكارثي وتخفف من تأثير هذه العقد الخبيثة.
+من المتوقع أن يصوت حاملو رموز واكس (WAX Token) لخروج أي نقابة واكس (WAX) توقع كتلتين لهما نفس ارتفاع الكتلة أو الطابع الزمني. حدوث التوقيع من خمسة عشر نقابة على كتلة يجعل من هذه الكتلة دائمة وغير قابلة للتغيير. 
 
-Any WAX Guild signing two blocks at the same block height or timestamp is likely voted out by the WAX Token holders. Fifteen guilds signing a block makes a block permanent and immutable.
 
 
 <a id="markdown-guilds-block-producers-staking-and-voting---enhanced-governance-features" name="guilds-block-producers-staking-and-voting---enhanced-governance-features"></a>
 
-### Guilds, Block Producers, Staking, and Voting - Enhanced Governance Features
+### النقابات ومنتجي الكتلة والتجميد والتصويت - ميزات الحوكمة المحسنة 
 
 
 <a id="markdown-wax-guilds" name="wax-guilds"></a>
 
-#### WAX Guilds
-The WAX Blockchain has 21 WAX Guilds at any given time, with one guild being selected to produce a block at a scheduled time. The 21 WAX Guilds are chosen to produce blocks in rounds of 126, based on six blocks for each of the 21 WAX Guilds. WAX Token holders vote for WAX Guilds to determine which qualified guilds become a part of the top 21. Those who vote for WAX Guilds that miss blocks are incentivized to vote these producers out since missed blocks result in a missed monetary opportunity for their voting constituents.
-
+#### نقابات واكس (WAX)
+يحتوي بلوكتشين واكس (WAX) على 21 نقابة واكس (WAX) في أي لحظة، مع اختيار نقابة واحدة لإنتاج كتلة في الوقت المحدد. يقع اختيار 21 نقابة واكس (WAX Guilds) لإنتاج كتل في جولات من 126، على أساس ستة كتل لنقابات واكس البالغ عددها 21 نقابة (WAX Guilds). يصوّت حاملو رموز واكس (WAX) لنقابات واكس (WAX Guilds) لتحديد النقابات المؤهلة التي تصبح جزءً من أفضل 21 نقابة. يُحفز أولئك الذين يصوتون لنقابات واكس (WAX) التي تفوت الكتل على التصويت بخروج هؤلاء المنتجين؛ لأن الكتل الضائعة تؤدي إلى فرصة مالية ضائعة على الناخبين.
 
 
 <a id="markdown-standby-guilds" name="standby-guilds"></a>
 
-#### Standby Guilds
-Standby guilds are critical to ensuring a robust network with maximum block production capacity. WAX allocates 1% of all blocks to be produced by standby guilds. These blocks get allocated in a pseudorandom manner to the standby guilds. Unlike EOS, where anyone can represent themselves as a standby block producer, WAX takes a different approach. In the WAX ecosystem, standby guilds are compelled to maintain 24/7 uptime since they cannot predict when they are assigned to produce a block. It also allows for voting on standby guild members.
+#### النقابات الاحتياطية 
+إن النقابات الاحتياطية شديدة الأهمية لضمان وجود شبكة قوية مع أقصى قدرة إنتاج كتلة.  تخصص واكس (WAX) نسبة 1 ٪ من جميع الكتل التي ستنتجها لتنتج بواسطة النقابات الاحتياطية. تُخصص هذه الكتل للنقابات الاحتياطية تخصيصًا عشوائيًا زائفًا. على عكس (EOS)، حيث يمكن لأي شخص أن يمثل نفسه منتجًا احتياطيًّا للكتل، ولكن واكس (WAX) تتخذ نهجًا مختلفًا. في نظام واكس (WAX) البيئي، تضطر النقابات الاحتياطية إلى الحفاظ على وقت التشغيل على مدار الساعة طوال أيام الأسبوع لأنها لا تستطيع التنبؤ بالوقت الذي ستعيّن فيه لإنتاج الكتلة. كما يسمح أيضًا بالتصويت على أعضاء النقابة الاحتياطية.
+ 
+لقد أدركنا أيضًا أن EOS ليس لديها آلية لمعرفة ما إذا كان جميع المنتجين مؤهلين لإنتاج الكتل أم لا. على سبيل المثال، إذا تمت عملية التصويت على مُنتِج احتياطي منخفض الجودة، فقد لا يتمكن هذا المُنتِج من إنتاج الكتل المخصصة له مما يؤدي إلى انخفاض الأداء. لا يزال هذا المُنتِج الاحتياطي يحصل على حصة من مكافأة الكتلة. يشترك منتجو (EOS) والمنتجون الاحتياطيون في تضخم بنسبة 0.75٪ بناءً على عدد الأصوات التي يحصلون عليها.  من المحتمل أن يعطي ذلك حافزًا للمنتجين الأقل جودة للترويج لأنفسهم لإنتاج الكتل دون امتلاك قدرات إنتاج كافية.
+ 
+لمعالجة ذلك، يستخدم بلوكتشين واكس (WAX) ثلاث آليات:
 
-We also recognized that EOS doesn't have a mechanism to determine if all producers qualify to produce blocks. For example, if a lower quality standby producer gets voted in, this producer may be unable to produce its assigned blocks, resulting in lower performance. This standby producer would still get paid a share of the block reward. EOS block producers and standby producers share 0.75% inflation based on the number of votes they receive. It's likely to give incentive for lower quality producers to promote themselves as a producer without having sufficient block producing capabilities.
 
-To address this, the WAX Blockchain uses three mechanisms:
+- يجب أن تثبت نقابات واكس (WAX) الاحتياطية قدرتها على إنتاج الكتل لتُضمّن في مجموعة من 57 نقابة مؤهلة (21 نقابة واكس (WAX) و36 نقابة احتياطية).
 
--   WAX standby guilds must prove their ability to produce blocks to be included in the pool of 57 qualified guilds (21 WAX Guilds + 36 standby guilds).
+-	كما هو الحال مع نقابات واكس (WAX Guilds)، تُعاقب نقابات واكس (WAX) الاحتياطية إذا لم تتمكن من إنتاج ما لا يقل عن 50 ٪ من الكتل المخصصة لها.
 
--   As with WAX Guilds, WAX standby guilds get penalized if they cannot produce at least 50% of the blocks assigned to them.
-
--   Because staking incentives get tied to guild performance, WAX Token holders are economically encouraged to direct their votes to higher performing WAX Guilds.
+-	نظرًا لأن حوافز التجميد مرتبطة بأداء النقابة، يُشجّع حاملو رموز واكس (WAX) تشجيعًا اقتصاديًا على توجيه أصواتهم إلى نقابات واكس (WAX) ذات الأداء العالي.
 
 
 <a id="markdown-wax-staking-rewards-as-a-solution-for-voter-apathy" name="wax-staking-rewards-as-a-solution-for-voter-apathy"></a>
@@ -387,73 +387,78 @@ Voter apathy is a concern for DPoS blockchains because other DPoS blockchains ha
 
 <a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
 
-#### WAX Staking Rewards
-WAX Token holders who stake their tokens and then vote with them earn additional WAX Tokens, called WAX Staking Rewards. These rewards are issued directly from the WAX Blockchain.
+#### مكافآت تجميد واكس (WAX) حلًا للامبالاة المصوتين
+تعتبر لامبالاة الناخبين مصدر قلق لأنواع البلوكتشين من طراز إثبات الحصة بالتفويض لأن باقي البلوكتشين الأخرى قد تأثرت سلبًا بسبب عدم التصويت.  تمنع معدلات التصويت المنخفضة الممنهجة على السلسلة من تحقيق اللامركزية، الأمر الذي صممت السلسلة من أجله.
+لقد طورنا مكافئات واكس للتجميد (WAX Staking Rewards) لتعزيز اهتمام المجتمع بعملية التصويت. يحصل حاملو رموز واكس (WAX) الذين يجمدون رموزهم ويصوتون لنقابات واكس (WAX Guilds) على هذه المكافآت المعلقة. تزداد قيمة الحصول على هذه المكافآت إلى أقصى حد عند إجراء التصويت بانتظام وللنقابات الأفضل أداءً.
 
-These rewards are beneficial for dApp developers because it helps reserve their system resources (CPU and Network). RAM allocation can be purchased and sold to meet the needs of the dApp developer. The staking mechanism and WAX Staking Rewards combination make no-fee transactions possible. We don’t charge dApp developers for running the infrastructure that enables the processing of the transactions due to WAX Guild Rewards. By staking tokens, dApp developers claim their necessary allocation. Staking also prevents network spam from locking out legitimate transactions because everyone is rate-limited based on what they are allotted.
+#### مكافآت واكس للتجميد (WAX) 
+يحصل حاملو رموز واكس (WAX) الذين يجمدون رموزهم ثم يصوتون بها على رموز واكس (WAX) إضافية تسمى مكافئات واكس للتجميد (WAX Staking Rewards) . تُصدر هذه المكافآت مباشرة من بلوكتشين واكس (WAX).
+هذه المكافآت مفيدة لمطوري التطبيقات اللامركزية لأنها تساعد في حجز موارد النظام (وحدة المعالجة المركزية والشبكة). يمكن شراء وبيع تخصيصات ذاكرة الوصول العشوائي (RAM) لتلبية احتياجات مُطوّر التطبيقات اللامركزية. تجعل آلية التجميد وأرباح تجميد واكس (WAX Staking Rewards) من المعاملات بدون رسوم أمرًا ممكنًا. إننا لا نفرض رسومًا على مطوري التطبيقات اللامركزية (dApp) نظير تشغيل البنية التحتية التي تمكن من معالجة المعاملات وذلك بسبب مكافآت نقابات واكس (WAX). يحصل مطورو التطبيقات اللامركزية على تخصيصاتهم اللازمة من خلال تجميد الرموز. كما يمنع التجميد أيَضًا خاصية حماية الشبكة من الإزعاج (Spam) من حظر المعاملات المشروعة لأن الجميع محدود المقابل على أساس تخصيصاتهم. 
+ 
 
 
 <a id="markdown-staking-rewards-are-based-on-performance--penalties-for-underperformance" name="staking-rewards-are-based-on-performance--penalties-for-underperformance"></a>
 
-#### Staking Rewards are Based on Performance / Penalties for Underperformance
-To encourage WAX Token holders to vote for the highest quality WAX Guilds to produce blocks, WAX Staking Rewards are tied to the performance of the WAX Guilds. If a WAX Guild that a WAX Token holder voted for is underperforming, their WAX Staking Rewards decrease:
+#### تستند مكافآت التجميد على الأداء/العقوبات لقصور الأداء
+لتشجيع حاملي رموز واكس (WAX) على التصويت لنقابات واكس الأعلى جودة من أجل إنتاج الكتل، ترتبط مكافئات واكس للتجميد (WAX Staking Rewards) بأداء نقابات واكس (WAX). إذا كانت نقابة واكس (WAX) التي صوت لها حامل رمز واكس (WAX) ضعيفة الأداء ، تنخفض مكافآت واكس للتجميد (WAX) الخاصة بهم:
 
 ![WAX Staking Rewards decrease](media/math3.jpg)
 
 
-WAX Staking Rewards are scaled by the performance of the WAX Guilds voters vote for:
+تُقاس مكافآت واكس للتجميد (WAX) من خلال أداء نقابات واكس (WAX) التي صوت الناخبون للصالحها:
 
 ![WAX Staking Rewards are scaled by the performance of the WAX Guilds voters vote for](media/math2.jpg)
 
 
-The function to determine a voter’s WAX Staking Rewards proportion:
+الوظيفة الخاصة بتحديد نسبة مكافآت واكس للتجميد (WAX Staking Rewards) للناخب:
 
 ![he function to determine a voter’s WAX Staking Rewards proportion](media/math1.jpg)
 
 
-Therefore, if the token holder votes for the WAX Guilds that only produce 90% of blocks scheduled to them, the voter's WAX Staking Rewards are 90% of the minimum possible amount. If the voter votes for the WAX Guilds that produces 50% or less of blocks scheduled to them, the voter does not receive WAX Staking Rewards in exchange for voting for them. Also, these guilds that produce 50% or less of their scheduled blocks do not get paid their WAX Guild Rewards.
+لذلك، إذا صوت صاحب الرمز لنقابات واكس (WAX) التي تنتج 90٪ فقط من الكتل المقررة لها، فإن مكافآت واكس للتجميد (WAX Staking Rewards) هي 90٪ من الحد الأدنى الممكن للمبلغ. إذا صوت الناخب لصالح نقابات واكس (WAX) التي تنتج 50٪ أو أقل من الكتل المقررة لها، فلن يحصل الناخب على مكافآت واكس للتجميد (WAX Staking Rewards) نظير التصويت لصالحها. أيضًا فإن هذه النقابات التي تنتج 50 ٪ أو أقل من كتلها المجدولة لا تحصل على مكافآت نقابة واكس (WAX).
 
-The formula applies to standby guilds as well. That means the vote cast for a standby guild receives the same potential reward as the vote cast for a guild that has become one of the top 21 (i.e., a WAX Guild). It makes the voter agnostic as to whether a guild that the voter votes for is likely (or not) to be one of the 21 WAX Guilds. We want WAX Token holders to cast their vote for the guild they believe best represents them, without being penalized.
-
-A voter can proxy a vote to anyone voting for underperforming WAX Guilds. In that case, the WAX Staking Rewards for those voting for underperforming WAX Guilds get diminished because their rewards are calculated based on the WAX Guilds that end up getting selected. A proxy cannot refresh a voter's vote weight when its votes on the voter’s behalf. Instead, the voter must refresh its vote for the proxy it chooses to regain full vote weight capacity and full WAX Staking Rewards capacity.
+تنطبق الصيغة على النقابات الاحتياطية أيضًا.  وهذا يعني أن التصويت المدلى به للنقابة الاحتياطية يتلقى نفس المكافأة المحتملة التي حصل عليها التصويت للنقابة التي أصبحت واحدة من أفضل 21 نقابة (أي نقابة واكس (WAX)). إنه يجعل الناخب لا يعرف ما إذا كانت النقابة التي يصوت لها من المحتمل (أو لا) أن تكون واحدة من أعلى 21 نقابة واكس (WAX). نريد من حاملي رموز واكس (WAX) الإدلاء بأصواتهم للنقابة التي يعتقدون أنها تمثلهم أفضل تمثيل دون أن يُعاقَبوا.
+مكافآت أعضاء كتلة التكوين (Genesis Block)
+يمكن للناخب توكيل التصويت لصالح أي شخص يصوت لنقابات واكس (WAX) ضعيفة الأداء. في هذه الحالة، تتناقص مكافآت واكس للتجميد (WAX Staking Rewards) لأولئك الذين يصوتون لنقابات واكس (WAX) ضعيفة الأداء لأن مكافآتهم تُحسب على أساس نقابات واكس (WAX) التي تُختار في النهاية. لا يمكن للوكيل تحديث وزن صوت الناخب عندما يصوت نيابة عنه. بدلاً من ذلك، يجب على الناخب تحديث صوته للوكيل الذي يختاره لاستعادة سعة الوزن التصويتي الكاملة وسعة مكافآت واكس للتجميد (WAX Staking Rewards) الكاملة.
 
 
 
 <a id="markdown-genesis-block-member-rewards" name="genesis-block-member-rewards"></a>
 
-### Genesis Block Member Rewards
-As part of the WAX Token Swap, we created the **Genesis Block Member** (GBM) program. Broad community participation is essential for a well-functioning delegated proof of stake blockchain. The GBM program is designed to encourage civic engagement and reward our long-term-oriented WAX community members who take part in the WAX blockchain’s healthy development.
+### مكافآت أعضاء كتلة التكوين (Genesis Block)
+إننا قد أنشأنا برنامج العضوية بكتلة التكوين (GBM). ضمن عملية تبادل رموز واكس. تُعد المشاركة المجتمعية الواسعة أمرًا ضروريًا للحصول على إثبات الحصة بالتفويض الذي يعمل جيدًا. صمم برنامج العضوية بكتلة التكوين (GBM) لتشجيع المشاركة المدنية ومكافأة أعضاء مجتمع واكس (WAX) ذوي التوجه طويل المدى الذين يشاركون في التطور الصحي لبلوكتشين واكس (WAX).
 
-To incentivize token holders in keeping their tokens invested with WAX, we have developed the Genesis Block Member Rewards Program. GBM participants receive daily token rewards for 3 years (July 1, 2019, to July 1, 2022). WAX Tokens earned from the WAX Token Swap, WAX Guild Rewards, and WAX Staking Rewards are all eligible for the GBM tokens.
+لتحفيز حاملي الرموز في الحفاظ على استثمار رمزهم مع واكس (WAX)، طورنا برنامج مكافآت أعضاء كتلة التكوين (Genesis Block). يحصل المشاركون في عضوية كتلة التكوين (GBM) على مكافآت رمزية يومية لمدة 3 سنوات (1 يوليو 2019 إلى 1 يوليو 2022).  رموز واكس (WAX) المكتسبة من تبادل رموز واكس (WAX) ومكافئات نقابات واكس ( WAX Guild Rewards) ومكافئات واكس للتجميد (WAX Staking Rewards) كلها مؤهلة للحصول على رموز العضوية بكتلة التكوين (GBM).
 
--   Genesis WAX Protocol Tokens continue to produce WAX Protocol Token GBM rewards every day as long as they remain staked.
+-	تستمر رموز بروتوكول تكوين واكس (WAX) في إنتاج مكافآت عضوية كتلة تكوين بروتوكول واكس (GBM) كل يوم طالما أنها لا تزال مجمدة.
 
--   By leaving Genesis WAX Protocol Tokens staked uninterrupted for 3 years, WAX Token holders double their WAX Protocol Tokens. If a WAX Token Holder ceases staking its WAX Tokens before three years have elapsed, then rewards are prorated.
+-	من خلال ترك رموز كتلة تكوين بروتوكول واكس مجمدة (WAX Protocol Tokens)  دون انقطاع لمدة 3 سنوات، يتمكن حاملو رموز واكس (WAX) من مضاعفة رموز بروتوكول واكس (WAX) الخاصة بهم. إذا توقف حامل رموز واكس (WAX) عن تجميد رموز واكس (WAX) الخاصة به قبل مرور ثلاث سنوات، فستوزع المكافآت بالتناسب.
 
--   If a Genesis WAX Protocol Token is unstaked, it permanently stops producing WAX Protocol Token GBM rewards. When this happens, it cannot be undone.
+-  	إذا كان رمز تكوين بروتوكول واكس (WAX) غير مجمدٍ، فإنه يتوقف توقفًا دائمًا عن إنتاج مكافآت بروتوكول واكس (WAX). عندما يحدث هذا لا يمكن الرجوع عنه.
 
--   A WAX Token holder may unstake all or a portion of its Genesis WAX Protocol Tokens at any time. The unstaked tokens become WAX Protocol Tokens and permanently stop producing daily GBM rewards.
+- يجوز لحامل رموز واكس (WAX) إلغاء التجميد على كل أو جزء من رموز بروتوكول واكس (WAX) الخاصة به في أي وقت. تتحول الرموز غير المجمدة إلى رموز بروتوكول واكس (WAX) وتتوقف توقفًا دائمًا عن إنتاج مكافآت عضوية كتلة التكوين (GBM) اليومية.
 
--   The GBM rewards get burned instead of earned, creating a deflationary effect on the token supply as indicated below.
+-  تُحرق مكافآت عضوية كتلة التكوين (GBM) بدلاً من اكتسابها، مما يخلق تأثيرًا انكماشًيا على توريد الرموز كما هو موضح أدناه.
 
 
 <a id="markdown-deflation--inflation" name="deflation--inflation"></a>
 
-### Deflation / Inflation
-Due to the GBM program described above, there is a 50% deflation potential from the WAX Token Swap, as detailed in the following chart:
-
-| Token Description                        | Initial Token Supply |
+### الانكماش/التضخم
+نظرًا لبرنامج عضوية كتلة التكوين (GBM) الموضح أعلاه، هناك احتمالية انكماش بنسبة 50٪ من تبادل رموز واكس (WAX)، كما هو مُفصل في الرسم البياني التالي:
+| وصف الرمز                       | توريد الرمز الأولي |
 |------------------------------------------|----------------------|
-| Number of ERC-20 WAX Tokens              | 1.85 billion         |
-| System resources                         | 20,000,000           |
-| Pre-minted GBM Tokens for WAX Token Swap | 1.85 billion         |
-| Max. total supply (excluding inflation)  | 3.72 billion         |
-| Min. total supply (excluding inflation)  | 1.87 billion         |
-| Total potential deflation %              | 50%                  |
+| عدد رموز واكس (ERC-20)              | 1.85 مليار         |
+| موارد النظام                         | 20,000,000           |
+| رموز عضوية كتلة التكوين (GBM) مسبقة الصك مقابل مبادلة رموز واكس (WAX)  | 1.85 مليار         |
+| الحد الأقصى لإجمالي العرض (باستثناء التضخم)  | 3.72 مليار         |
+| الحد الأدنى لإجمالي العرض (باستثناء التضخم)  | 1.87 مليار         |
+| إجمالي الانكماش المحتمل٪            | 50%                  |
 
-> **Note:** Future GBM unearned rewards from unstaking WAX Token holders get burned, on a proportionate basis, when WAX Token holders unstake their GBM tokens.
+> **ملاحظة:** تُحرق مكافآت عضوية كتلة التكوين المستقبلية غير المكتسبة من حاملي الرموز غير المجمدين لرموزهم على أساس تناسبي، وذلك عندما يُسيّل حاملو رموز واكس (WAX) رموزهم الخاصة بعضوية كتلة التكوين (GBM).
 
-At the same time, there is an inflation model from Token Rewards, as detailed in the following chart:
+في الوقت نفسه، هناك نموذج تضخم من مكافآت الرموز، كما هو مفصل في الرسم البياني التالي: 
+
+
 
 ![Inflation Model Token Rewards](media/inflation-model-token-rewards.png)
 
@@ -461,136 +466,128 @@ At the same time, there is an inflation model from Token Rewards, as detailed in
 
 <a id="markdown-transactions" name="transactions"></a>
 
-### Transactions
-For e-commerce to work, transactions must be free to prevent bottlenecks that would otherwise occur due to fee markups during times of token price inflation and increased volume. With free transactions, however, spam becomes a problem. To prevent spam on the WAX Blockchain, transaction senders must stake system resources required to process the transaction. The system resources to stake are NET (network), CPU, and RAM. By staking WAX for CPU and NET (bandwidth), a user gets a proportionate share of the overall blockchain resources, which guarantees that transactions get processed at a corresponding rate.
+### المعاملات
+لكي تعمل التجارة الإلكترونية؛ يجب أن تكون المعاملات مجانية لمنع الاختناقات التي كانت ستحدث بخلاف ذلك، بسبب رسوم هوامش الربح خلال أوقات تضخم أسعار الرموز وزيادة الحجم.  ولكن مع المعاملات المجانية، يصبح الإزعاج (Spam) مشكلة.  لمنع الإزعاج (Spam) على بلوكتشين واكس (WAX)، يجب على مرسلي المعاملات تجميد موارد النظام المطلوبة لمعالجة المعاملة. موارد النظام المراد تجميدها هي الشبكة (network) ووحدة المعالجة المركزية (CPU) وذاكرة الوصول العشوائي (RAM). من خلال تجميد واكس (WAX) لوحدة المعالجة المركزية والشبكة (عرض النطاق الترددي) ، يحصل المستخدم على حصة متناسبة من موارد البلوكتشين الإجمالية، مما يضمن معالجة المعاملات بمعدل مماثل.
 
-In a recent upgrade, staking system resources to have a transaction processed has moved from the sender to another party, for example, a dApp maintainer. Doing this facilitates onboarding users into the system because the users don't need to understand staking for resources. Depending on the transaction, a customer may require ownership of a certain amount of RAM. In this case, the customer can purchase more RAM from a WAX Blockchain-powered marketplace that exchanges WAX for RAM according to the Bancor algorithm.
-
+في ترقية حديثة، نقلت عملية تجميد موارد النظام من أجل معالجة المعاملة من المرسل إلى جهة أخرى، على سبيل المثال مشرف التطبيق اللامركزي.  يؤدي ذلك إلى تسهيل دمج المستخدمين في النظام لأن المستخدمين لا يحتاجون إلى فهم عملية تجميد الموارد.  اعتمادًا على المعاملة، قد يطلب العميل ملكية كمية معينة من ذاكرة الوصول العشوائي. في هذه الحالة يمكن للعميل شراء المزيد من ذاكرة الوصول العشوائي من سوق بلوكتشين واكس (WAX) الذي يتبادل واكس (WAX) مع ذاكرة الوصول العشوائي وفقًا لخوارزمية "بانكور" (Bancor).
 
 
 <a id="markdown-providing-cost-efficiency-in-terms-of-fee-elimination" name="providing-cost-efficiency-in-terms-of-fee-elimination"></a>
 
-#### Providing Cost Efficiency in Terms of Fee Elimination
-WAX offers a free, flexible platform for sending transactions where customers don’t pay for transactions. The idea behind this more straightforward usage policy is to create a higher rate of adoption. It’s also possible for organizations, businesses, and developers to create a wide range of monetization strategies.
-
+#### توفير وفر التكلفة من حيث إلغاء الرسوم
+تقدم واكس (WAX) منصة مجانية ومرنة لإرسال المعاملات حيث لا يدفع العملاء مقابل المعاملات. تكمن الفكرة وراء سياسة الاستخدام الأوضح هذه في إنشاء معدل أعلى من التبني. من الممكن أيضًا للمؤسسات والشركات والمطورين إنشاء مجموعة واسعة من استراتيجيات تحقيق الدخل. 
 
 
 <a id="markdown-smart-contracts--rng" name="smart-contracts--rng"></a>
 
-### Smart Contracts + RNG
-Contracts in business are meant to ensure an agreement between the parties for a specific service or to meet a set of standard requirements. Contracts are a set of conditions or rules to be adhered to by both parties. As long as these requirements get met, execution is possible.
+### العقود الذكية + مولّد الأرقام العشوائية RNG 
+يقصد من العقود في الأعمال التجارية ضمان اتفاق بين الطرفين لتوفير خدمة معينة أو لتلبية مجموعة من المتطلبات القياسية. العقود مجموعة من الشروط أو القواعد التي يجب أن يلتزم بها الطرفان. ما دامت هذه المتطلبات متحققة فإن التنفيذ ممكن.
 
-WAX Smart Contracts are similar in that they provide a structure for obligations between all participants to process financial transactions on the WAX Blockchain. WAX Smart Contracts get executed when the set of conditions, or rules, get met, but the records for legal transfer and activity get stored on the WAX Blockchain with transparency.
+تتشابه عقود واكس (WAX) الذكية في أنها توفر هيكلًا للالتزامات بين جميع المشاركين لمعالجة المعاملات المالية على بلوكتشين واكس (WAX). تُنفذ عقود واكس (WAX) الذكية عند استيفاء مجموعة الشروط أو القواعد، ولكن تُخزن السجلات الخاصة بالنقل القانوني والنشاط على بلوكتشين واكس (WAX) بشفافية.
 
-WAX Smart Contracts reside on a WAX Account and have a 12-character, human-readable label chosen by the creator of the account. Within the WAX ecosystem, any account can send actions to other accounts where the transaction gets handled by the smart contract code residing on the target account. Multiple accounts can receive multiple actions for a single transaction.
+توجد عقود واكس (WAX) الذكية على حساب واكس (WAX) ولها عنوان اختاره منشئ الحساب مكون من 12 حرفًا يمكن للإنسان قراءته. داخل النظام البيئي لواكس (WAX)، يمكن لأي حساب إرسال إجراءات إلى حسابات أخرى حيث تعالج المعاملة بواسطة رمز العقد الذكي الموجود في الحساب المستهدف. يمكن لحسابات متعددة تلقي إجراءات متعددة لمعاملة واحدة.
 
-WAX Smart Contracts define:
+تُحدد عقود واكس (WAX) الذكية ما يلي:
 
--   obligations
+-  	الالتزامات
 
--   parameters
+-  	المُعلمات
 
--   required actions
+-  	الإجراءات المطلوبة
 
--   information structure
+-  	هيكل المعلومات
 
--   interface code
+-   كود الواجهة
 
 
 
 <a id="markdown-wax-random-number-generator-rng-smart-contract" name="wax-random-number-generator-rng-smart-contract"></a>
 
-#### WAX Random Number Generator (RNG) Smart Contract
-In generic terms, a [random number generator (RNG)](https://en.wikipedia.org/wiki/Random_number_generation) is an algorithm that generates random values. In blockchain terms, dApp developers use RNGs to introduce a random outcome, such as generating a digital collectible or NFT. Currently, integrating random values into smart contracts has process flaws, which create potential vectors for unfair, or non-random values, reducing a customer's confidence in using dApps.
+#### العقد الذكي لمولد الأرقام العشوائية (RNG) لواكس 
+في العموم؛ فإن مولد الأرقام العشوائية [random number generator (RNG)](https://en.wikipedia.org/wiki/Random_number_generation) خوارزمية تولد قيمًا عشوائية. باستخدام مصطلحات البلوكتشين؛ يستخدم مطورو التطبيقات اللامركزية مولّدات الأرقام العشوائية (RNGs) لتقديم نتيجة عشوائية، مثل إنشاء مقتنيات رقمية أو رمزًا غير قابل للاستبدال (NFT). في الوقت الحالي، ينطوي دمج القيم العشوائية في العقود الذكية على عيوب في العملية، والتي تخلق بدورها نواقل محتملة لقيم غير عادلة أو غير عشوائية، مما يقلل من ثقة العميل في استخدام التطبيقات اللامركزية. 
 
-The **three** main problems that developers experience when trying to generate and ingest random values into their dApps include:
+تتضمن المشكلات الرئيسية الثلاث التي يواجهها المطورون عند محاولة إنشاء القيم العشوائية  ودمجها في تطبيقاتهم اللامركزية ما يلي:
 
-1.  Blockchain-native RNG services don’t exist, leaving dApp developers to build their own. This reduces the time the dApp developers can spend on other areas of their dApps, such as designs and features that would improve the customer experience.
+1.	لا توجد خدمات مولّد الأرقام العشوائية (RNG) الأصلية للبلوكتشين، مما يترك مطوري البلوكتشين أمام بناء تطبيقاتهم الخاصة.  وهذا يقلل من الوقت الذي يمكن أن يقضيه مطورو التطبيقات اللامركزية في جوانب أخرى من تطبيقاتهم اللامركزية، مثل التصميمات والميزات التي من شأنها تحسين تجربة العملاء.
 
-2.  It's not uncommon that most dApp developers are not experts with the RNG, so there are design weaknesses with most dApp-specific RNG services. 
+2.	فليس من غير المألوف رؤية أن معظم مطوري التطبيقات اللامركزية ليسوا خبراء في مجال مولّد الأرقام العشوائية (RNG)، لذلك توجد  نقاط ضعف في التصميم معظم خدمات مولّد الأرقام العشوائية (RNG) الخاصة بالتطبيقات اللامركزية.
 
-3.  Sometimes dApp customers have difficulty determining whether a dApp's RNG service is generating a random result or not, which diminishes customer confidence.
-
+3.	يواجه في بعض الأحيان عملاء التطبيقات اللامركزية صعوبة في تحديد ما إذا كانت خدمة مولّد الأرقام العشوائية (RNG) الخاصة بالتطبيقات اللامركزية تولد بالفعل نتيجة عشوائية أم لا، مما يقلل من ثقة العملاء.
 
 <a id="markdown-how-wax-rng-native-blockchain-service-solves-important-problems" name="how-wax-rng-native-blockchain-service-solves-important-problems"></a>
 
-#### How WAX RNG Native Blockchain Service Solves Important Problems
-The open-source WAX RNG Native Blockchain Service allows dApp developers to integrate the service into their dApps easily. We chose [Signidice algorithm](https://github.com/gluk256/misc/blob/master/rng4ethereum/signidice.md) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) verification for this service because:
+#### كيف يمكن لخدمة مولّد الأرقام العشوائية الأصلية ببلوكتشين واكس (WAX) أن يحل المشاكل المهمة
+تسمح خدمة واكس لمولّد الأرقام العشوائية (RNG) مفتوحة المصدر لمطوري التطبيقات اللامركزية بدمج الخدمة في تطبيقاتهم اللامركزية بسهولة. اخترنا خوارزمية (Signidice) ومصادقة (RSA) لهذه الخدمة للأسباب التالية: (https://github.com/gluk256/misc/blob/master/rng4ethereum/signidice.md) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) verification for this service because:
 
--   **Signidice algorithm:** Excellent randomization, non-gameable characteristics, cleaner workflow for dApp developers, and provably fair.
+-   **خوارزمية (Signidice):** اختيار عشوائي ممتاز وخصائص غير قابلة للعب، ومسار عمل أنظف لمطوري التطبيقات اللامركزية، كما أنها نزيهة إلى حد كبير.
 
--   **RSA verification:** Ensures uniqueness of the signature and removes the ability for the results to be manipulated. Note, using other types of signing algorithms may allow many valid signatures for the same signing value, which could result in manipulation.
+-   **التحقق بواسطة (RSA):** يضمن تفرد التوقيع ويزيل القدرة على التلاعب بالنتائج.  لاحظ أن استخدام أنواع أخرى من خوارزميات التوقيع قد يسمح بالعديد من التوقيعات الصالحة لنفس قيمة التوقيع، مما قد يفتح الباب أمام التلاعب. 
 
-The self-verifying WAX RNG Native Blockchain Service confirms that the RSA signature that comes back from the WAX RNG oracle is valid and authentic before being utilized by the dApp. When dApp customers can quickly establish fairness, they have a higher degree of confidence in using the dApp.
-
+تؤكد خدمة واكس لمولّد الأرقام العشوائية (RNG) التي تُحقق منها ذاتيًا أن توقيع (RSA) الذي يحصل عليه من أوراكل واكس لمولّد الأرقام العشوائية (RNG) صالح وأصيل قبل استخدامه من قبل التطبيق اللامركزي. عندما يتمكن عملاء التطبيقات اللامركزية من إثبات النزاهة سريعًا، فإنهم يملكون درجة أعلى من الثقة في استخدام التطبيق اللامركزي.
 
 <a id="markdown-nft-standards--nft-integration-with-wax-expresstrade" name="nft-standards--nft-integration-with-wax-expresstrade"></a>
 
-## NFT Standards / NFT Integration with WAX ExpressTrade
-WAX supports non-fungible tokens using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) open-source standard. WAX ExpressTrade leverages the WAX Blockchain via a microservice called WAX-On to generate, mint, and store the NFTs it manages. With this, we have the WAX-On microservice:
+## معايير الرمز غير القابل للاستبدال (NFT)/ تكامل الرمز غير القابل للاستبدال (NFT) مع واكس  للتداول السريع (WAX ExpressTrade)
+يدعم واكس (WAX) الرموز غير القابلة للاستبدال باستخدام معيار  [Simple Assets](https://github.com/CryptoLions/SimpleAssets)المصدر المفتوح. تعمل واكس للتداول السريع (WAX ExpressTrade) على تعزيز بلوكتشين واكس (WAX) عبر خدمة مصغرة تسمى واكس-أون (WAX-On) لتوليد الرموز غير القابلة للاستبدال التي تديرها وصكها وتخزينها. مع هذا، لدينا خدمة واكس-أون للخدمات المصغرة (WAX-On):
 
-1.  All users see their transactions on the chain.
+1.	يرى جميع المستخدمين معاملاتهم على السلسلة.
 
-2.  Customers can prove to themselves that they have been chosen for random selections fairly.
+2.	يُمكن للعملاء أن يثبتوا لأنفسهم أن اختيارهم قد جرى عشوائيًا وبنزاهة.
 
-3.  dApp developers have access to a large user base of OPSkins customers.
+3.	يمكن لمطوري التطبيق اللامركزي الوصول إلى قاعدة مستخدمين كبيرة لعملاء (OPSkins).
 
-4.  The service leverages open-source Simple Assets NFT implementation.
+4.	تعزز الخدمة تطبيق الرموز غير القابلة للاستبدال للأصول البسيطة مفتوحة المصدر. 
 
-Full integration with other NFT standards such as dGoods on EOS, Ethereum, and Tron is part of the roadmap. Interoperability maximizes the liquidity for buyers and sellers and is the essential value proposition of the WAX Protocol.
 
+يُعد التكامل الكامل مع معايير الرموز غير القابلة للاستبدال (NFT) الأخرى مثل البضائع اللامركزية (dGoods) على (EOS) و الإيثيريوم و(Tron) جزءً من خريطة الطريق.  تعمل قابلية التشغيل البيني على زيادة السيولة للمشترين والبائعين وتمثل القيمة الأساسية لبروتوكول واكس (WAX).
 
 <a id="markdown-worker-proposal-system" name="worker-proposal-system"></a>
 
-## Worker Proposal System 
-The WAX Worker Proposal System (WWPS) is a proposed program that’s designed to incentivize and compensate community developers who build upon the WAX Blockchain. The WWPS would allocate WAX Tokens (denominated in WAX Tokens and paid in WAX Tokens) to be distributed to developers who work on community needs, patches, and upgrades. In exchange for their time and effort contributing to the development of WAX, these developers would become eligible to receive WAX Tokens from the WWPS.
+## نظام اقتراح العمال "WPS"
+نظام واكس لاقتراح العمال (WWPS) برنامج مقترح مصمم لتحفيز وتعويض مطوري المجتمع الذين يعتمدون على بلوكتشين واكس (WAX Blockchain). سيخصص نظام واكس لاقتراح العمال (WWPS) رموز واكس (WAX) (المقومة برموز واكس والمدفوعة برموز واكس لتُوزع على المطورين الذين يعملون على احتياجات المجتمع والتصحيحات والترقيات. وفي مقابل وقتهم وجهدهم الذين يساهمون به في تطوير واكس (WAX)، يصبح هؤلاء المطورون مؤهلين لتلقي رموز واكس (WAX) من نظام واكس لاقتراح العمال (WWPS).
 
-One percent (1%) WAX annual inflation would fund the WWPS and would not be eligible for GBM Rewards, to encourage the active distribution of the funds to developers.
-
+ستمول نسية واحد بالمائة (1 ٪) من التضخم السنوي بواكس (WAX) نظام واكس لاقتراح العمال (WWPS) ولن يكون مؤهلاً للحصول على مكافآت عضوية كتلة التكوين (GBM) ، لتشجيع التوزيع النشط للأموال للمطورين.
 
 <a id="markdown-why-do-we-need-the-wwps" name="why-do-we-need-the-wwps"></a>
 
-### Why do we need the WWPS?
-WAX has several improvements to be made, and some desired features are still missing. In the decentralized nature of blockchains, there are not enough incentives for community developers to spend their time contributing patches and upgrades needed for efficient and scalable advancements.
+### لماذا نحتاج إلى نظام واكس لاقتراح العمال  (WWPS)؟
+توجد لدى واكس (WAX) العديد من التحسينات التي يجب إجراؤها، ولا تزال بعض الميزات المطلوبة مفقودة. لا توجد في الطبيعة اللامركزية للبلوكتشين  حوافز كافية لمطوري المجتمع تجعلهم يقضون أوقاتهم في المساهمة في التصحيحات والترقيات اللازمة للتقدم الفعال والقابل للتوسع.
 
-To make sure WAX remains up-to-date with the changing needs of the community, we will soon introduce a Work Proposal System (WPS). The planned WPS will allow for an allocation of funds to reserve for incentivizing developers to work on the community needs, such as critical patches or forward-looking upgrades. The idea behind WPS is to utilize the strengths of a decentralized community going forward, reducing the reliance on a single source for new additions. The WPS also would allow the community to nurture and grow the tool.
-
+للتأكد من حفاظ واكس (WAX) على مواكبة أحدث التطورات للاحتياجات المتغيرة للمجتمع؛ سنقدم قريبًا نظام اقتراح العمال (WPS). سيسمح نظام اقتراح العمال (WPS) المخطط له بتخصيص تمويل للاحتفاظ به لتحفيز المطورين للعمل على احتياجات المجتمع، مثل التصحيحات الحرجة أو الترقيات المستقبلية. تكمن الفكرة وراء نظام اقتراح العمال (WPS) في الاستفادة من نقاط القوة في المجتمع اللامركزي في المضي قدمًا، مما يقلل من الاعتماد على مصدر واحد للإضافات الجديدة. سيسمح نظام اقتراح العمال (WPS) أيضًا للمجتمع برعاية الأداة وتنميتها.
 
 <a id="markdown-proposed-wwps-categories" name="proposed-wwps-categories"></a>
 
-### Proposed WWPS Categories
-1.  **Oversight:** Supports the underlying code base of the blockchain, which includes security audits, Distributed Denial of Service (DDoS) protection, bug patches, and mainnet repository maintenance.
+### فئات نظام واكس لاقتراح العمال (WWPS) المقترحة 
+1.  **الرقابة:** Supports the underlying code base of the blockchain, which includes security audits, Distributed Denial of Service (DDoS) protection, bug patches, and mainnet repository maintenance.
 
-2.  **Infrastructure:** Supports the underlying code base of the blockchain, which includes security audits, Distributed denial of service (DDoS) protection, bug patches, and mainnet repository maintenance.
+2.  **البنية التحتية:** يدعم قاعدة الكود الأساسي للبلوكتشين، تلك التي تشمل مراجعات التدقيق على الأمن، والحماية من هجمات حجب الخدمة الموزعة (DDoS)، وتصحيحات الأخطاء، وصيانة سجل الشبكة الرئيسية (mainnet).
 
-3.  **Community:** Supports the resources and spaces that bring people together, such as meetups, educational content and platforms, public relations, lawyers, advocates, and lobbyists.
+3.  **المجتمع:** يدعم الموارد والمساحات التي تجمع الناس معًا، مثل اللقاءات والمحتوى التعليمي والمنصات والعلاقات العامة والمحامين والمدافعين وجماعات الضغط.
 
-4.  **Development:** Supports developers and ideas, such as dApps and applications that may be necessary for underserved minorities.
+4.  **التطوير:** يدعم المطورين والأفكار، مثل التطبيقات اللامركزية والتطبيقات التي قد تكون ضرورية للأقليات المحرومة.
 
-5.  **Miscellaneous:** Supports swag, burning, and projects that may not fit into other categories.
+5.  **نثريات:** تدعم الهدايا والحرق والمشاريع التي قد لا تتناسب مع الفئات الأخرى.
 
-A percentage of the WWPS funds would be allocated to each category, ensuring that no category would have an oversized impact on the WPS. The fund, however, would require oversight to screen out non-legitimate proposals and possible abuse.
-
+ستخصص نسبة مئوية من أموال نظام واكس لاقتراح العمال (WWPS) لكل فئة، مما يضمن أنه لن يكون لأي فئة تأثير كبير على نظام اقتراح العمال (WPS).  ومع ذلك، سيتطلب الصندوق رقابة لاستبعاد الاقتراحات غير المشروعة وإساءات الاستخدام المحتملة.
 
 <a id="markdown-net-cpu-and-ram-resources-on-the-wax-blockchain" name="net-cpu-and-ram-resources-on-the-wax-blockchain"></a>
 
-## NET, CPU, and RAM Resources on the WAX Blockchain
-Since the WAX Blockchain mainnet and protocol token launched, we’ve been thrilled to see the level of participation in staking and voting among WAX Token holders who have [swapped](http://tokenswap.wax.io/) their tokens. As we’ve [mentioned](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more), staking and voting is crucial for DPoS blockchains such as WAX because the more involved the community, the better the blockchain operates for everyone. Now we’d like to explain what the NET (Network), CPU, and RAM is that the community is staking.
+## الشبكة ووحدة المعالجة المركزية وموارد ذاكرة الوصول العشوائي على بلوكتشين واكس (WAX)
+منذ إطلاق الشبكة الرئيسية (mainnet) ورموز بروتوكول واكس (WAX)، يسعدنا أن نرى مستوى المشاركة في التجميد والتصويت من حاملي رموز واكس (WAX) الذين تبادلواhttp://tokenswap.wax.io/ رموزهم. كما ذكرنا سابقًا، يعد التجميد والتصويت أمرًا بالغ الأهمية لسلاسل البلوكتشين التي تعمل بإثبات الحصة بالتفويض مثل واكس (WAX) لأنه كلما زاد إشراك المجتمع، عمل البلوكتشين عملًا أفضل للجميع. نود الآن أن نوضح ما هي الشبكة ووحدة المعالجة المركزية وذاكرة الوصول العشوائي التي يراها المجتمع. 
 
-In the WAX ecosystem, the following resources get consumed by dApps:
+في النظام البيئي لواكس (WAX)، تستهلك التطبيقات اللامركزية الموارد التالية:
 
--   **NET** - throughput capacity of the WAX network, measured in bytes
+-   **الشبكة (NET)** - السعة الإنتاجية لشبكة واكس (WAX)، تقاس بالبايت
 
--   **CPU** - processing time of an action, measured in microseconds
+-   **وحدة المعالجة المركزية (CPU)** - وقت معالجة الإجراء، ويقاس بالميكروثانية
 
--   **RAM** - stores data of dApps in the blockchain
+-   **RAM** -  تخزن بيانات التطبيقات اللامركزية في البلوكتشين
 
-In this ecosystem, *bandwidth,* which consists of NET and CPU, is flexible. That means WAX Token holders can have more bandwidth allocated than the ratio they have staked vs. the total stake pool. Minimum resource allocation is the fraction: 'your stake' divided by 'total stake.' Bandwidth is consumed at the block height that a transaction is included and then regenerates for future usage.
+في هذا النظام البيئي، يتصفعرض النطاق الترددي ، الذي يتكون من الشبكة (NET) ووحدة المعالجة المركزية (CPU) بالمرونة. يعني هذا أن حاملي رموز واكس (WAX) يمكن أن يكون لديهم عرض نطاق ترددي مخصص أكثر من النسبة التي جمدوها مقابل إجمالي مجمع الرموز المجمدة. الحد الأدنى لتخصيص الموارد هو الكسر: "حصتك" مقسومة على "الحصة الإجمالية". يُستهلك عرض النطاق الترددي عند ارتفاع الكتلة الذي تُضمّن المعاملة به ثم يجدد للاستخدام في المستقبل.
 
-Since RAM is limited and necessary to hold a dApp's state, which must persist over time, RAM must be allocated. Therefore, RAM is not based on staking; rather, it is purchased and sold. Realize that one can sell deallocated RAM at any time back to the blockchain's native RAM market, or allocate it for usage at any future point in time.
+نظرًا لأن ذاكرة الوصول العشوائي محدودة وضرورية كي تحمل حالة التطبيقات اللامركزية، تلك الحالة التي يجب أن تستمر مع مرور الوقت؛ بالتالي فيجب تخصيص ذاكرة الوصول العشوائي. لذلك، لا تعتمد ذاكرة الوصول العشوائي على التجميد؛ بدلا من ذلك، فإنها تباع وتشترى.  ينبغي إدراك أنه يمكن للمرء بيع ذاكرة الوصول العشوائي غير المخصصة في أي وقت إلى سوق ذاكرة الوصول العشوائي الأصلي في البلوكتشين، أو تخصيصها للاستخدام في أي وقت في المستقبل. 
 
-More information about NET, CPU and RAM on the WAX Blockchain can be found here:
-[https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain)
+يمكن العثور على مزيد من المعلومات حول الشبكة (NET) ووحدة المعالجة المركزية (CPU) وذاكرة الوصول العشوائي (RAM) على بلوكتشين واكس (WAX) هنا: https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain[https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain)
 
 
 <a id="markdown-microservice-layer" name="microservice-layer"></a>
