@@ -635,157 +635,140 @@ WAX Account Token holders can perform the following activities directly from the
 
 -   **Claim** Staking Rewards and Genesis Block Member Rewards
 
--   **Track** WAX Token balances and Staking Rewards
+-   **تتبع **أرصدة رموز واكس (WAX) ومكافآت التجميد
 
--   **View** NFTs
+-   **عرض** NFTs
 
-WAX Accounts can be made at [accounts.wax.io](http://accounts.wax.io).
+يمكن إنشاء حسابات واكس (WAX) على accounts.wax.io .
 
-WAX Accounts are free for customers. An existing WAX Blockchain account must generate WAX Accounts. Each WAX Account requires 3KB of RAM and a minimal amount of WAX (\~1 WAX) to provide bandwidth for CPU and NET system resources, which WAX covers the cost of for most accounts.
+حسابات واكس (WAX) مجانية للعملاء. يجب أن ينشئ حساب بلوكتشين واكس (WAX) الحالي حسابات واكس أخرى (WAX). يتطلب كل حساب واكس (WAX) سعة 3 كيلوبايت من ذاكرة الوصول العشوائي وحد أدنى من واكس (~ 1 واكس (WAX)) لتوفير عرض النطاق الترددي لموارد نظام وحدة المعالجة المركزية والشبكة، حيث تغطي واكس (WAX) تكلفة معظم الحسابات.
 
-By requiring 2FA and account scoring, WAX prevents account creation spam.
+من خلال طلب (2FA) وتسجيل الحساب، تمنع واكس (WAX) إنشاء الحسابات المزعجة.
+
 
 
 
 <a id="markdown-wax-nft-creator" name="wax-nft-creator"></a>
 
-### WAX NFT Creator
-WAX Creator is a self-service tool that allows anyone to create NFTs like collectible cards, stickers, and digital art on the WAX Blockchain in just minutes, and for free. It requires zero technical knowledge on the part of the creator. Hundreds of thousands of NFTs have been created on the WAX Blockchain using the WAX Creator since launching in June 2019.
+### مُنشئ واكس للرموز غير القابلة للاستبدال (WAX)
+إن مُنشئ واكس (WAX Creator) أداة خدمة ذاتية تتيح لأي شخص إنشاء رموزٍ غير قابلة للاستبدال (NFTs) مثل مقتينات البطاقات  والملصقات والفن الرقمي على بلوكتشني واكس (WAX) في دقائق معدودة مجانًا. لا يتطلب معرفة فنية من جانب المنشِئ. أنشئت مئات الآلاف من الرموز غير قابلة للاستبدال (NFTs) على بلوكتشين واكس (WAX) باستخدام مُنشئ واكس (WAX Creator) منذ إطلاقه في يونيو 2019.
 
-NFTs are minted on the WAX Blockchain and sent to the creator’s WAX ExpressTrade Inventory. Owners of these NFTs can sell them, gift them, trade them, or collect them. They can also be used to create dApps, such as a card game that’s played using custom WAX Collectable Cards.
+تُصك الرموز غير القابلة للاستبدال (NFTs) على بلوكتشين واكس (WAX) وترسل إلى مخزون المُنشئ واكس للتداول السريع (WAX ExpressTrade) . يمكن لمالكي الرموز غير القابلة للاستبدال (NFTs) بيعها أو إهدائها أو المتاجرة بها أو جمعها.   يمكن استخدامها أيضًا لإنشاء التطبيقات اللامركزية، مثل لعبة ورق تلعب باستخدام بطاقات واكس المقتناة (WAX Collectable) المخصصة.
+يمكن أن تحتوي الرموز غير القابلة للاستبدال (NFTs) على سمات عامة وأخرى فريدة بما في ذلك الأعداد الصحيحة العشوائية والأوصاف والمزيد. 
 
 NFTs can have generic attributes, unique attributes including random integers, descriptions, and more.
 
 
 <a id="markdown-wax-expresstrade" name="wax-expresstrade"></a>
 
-### WAX ExpressTrade
-WAX ExpressTrade enhances the experience for a rapidly growing global community of digital item buyers, sellers, and collectors. This free and instant peer-to-peer service lets digital item traders buy, sell, and trade digital items on the WAX Blockchain.
+### واكس للتداول السريع (WAX ExpressTrade) 
+تعمل واكس للتداول السريع (WAX ExpressTrade) على تحسين تجربة الاستخدام لمجتمع عالمي سريع النمو من مشتريّ العناصر الرقمية والبائعين وجامعي المقتينات. تتيح هذه الخدمة المجانية والفورية من نظير إلى نظير لتجار العناصر الرقمية شراء العناصر الرقمية وبيعها وتداولها على بلوكتشين واكس (WAX).
 
-The WAX ExpressTrade API gives independent marketplaces a pipeline into the multi-billion dollar digital item trading industry. Marketplaces of any size and in any geography can use WAX ExpressTrade to create a thriving market for their digital items like video game skins and other tradable items, or physical items like electronics or sneakers. WAX ExpressTrade provides  marketplaces a way to give their customers access to the global WAX item trading market; and not just the limited inventory available in their marketplace. Buyers can find those coveted rare items easier, and sellers can match with suitable customers faster.
-
+يمنح (API) الخاص بواكس للتداول السريع (WAX ExpressTrade) الأسواق المستقلة خط أنابيب لصناعة تداول العناصر الرقمية التي تبلغ مليارات الدولارات. يمكن للأسواق من أي حجم وفي أي منطقة جغرافية استخدام واكس للتداول السريع (WAX ExpressTrade) لإنشاء سوق مزدهر لعناصرها الرقمية مثل تغيير مظاهر ألعاب الفيديو وغيرها من العناصر القابلة للتداول، أو العناصر المادية مثل الإلكترونيات أو الأحذية الرياضية. توفر واكس للتداول السريع (WAX ExpressTrade) للأسواق طريقة تتيح لعملائها الوصول إلى سوق تداول سلع واكس (WAX) العالمية؛ وليس فقط المخزون المحدود المتاح في أسواقهم. يمكن للمشترين العثور على هذه العناصر النادرة المرغوبة بمزيد من السهولة، ويمكن للبائعين مطابقة العملاء المناسبين مطابقة أسرع.
 
 <a id="markdown-wax-explorer" name="wax-explorer"></a>
 
-### WAX Explorer
-The WAX Explorer is unlike any that the blockchain world has seen before.
-
-Most block explorers were originally designed for commodity-style, fungible tokens like Bitcoin and Litecoin. They exist to simply provide relevant information about the tokens being traded. For generic tokens like BTC and LTC, the information anyone is interested in tracking is pretty limited to just metadata - what block the transaction is in, the milliseconds it took, the address it was sent to, etc.
-
-But WAX is a different type of blockchain, and the products that are traded on it are very different from what’s viewed on other block explorers. As we usher in the new era of consumer-friendly mass adoption of blockchain technology, we saw that it was necessary to invent a new type of block explorer that was different from everything else out there. If the types of items that are trading on the beta WAX Blockchain are different from the items trading on other blockchains, then it’s logical that the WAX Explorer should be different as well.
-
-Like other block explorers for other chains, the WAX Explorer shows details for all transactions taking place on the beta WAX Blockchain and other important data. But that’s where the similarities to other block explorers end. We’ve completely re-imagined what a block explorer should do and look like with the WAX Explorer.
-
-The difference between seeing Ethereum traded on Etherscan versus VGO skins traded on the WAX Explorer is that ETH transactions are just a string of characters whereas non-fungible tokens (NFTs) like VGO and CryptoKitties are all completely unique from one another. They’re unique collectibles and therefore e-commerce products, not store-of-value commodities like other tokens. For this reason, a block explorer that shows transactions of these NFTs must include merchandising data relevant to someone searching for and trading them. That’s what we built with the WAX Explorer.
-
-The appearance of the items traded on WAX is extremely important to traders of them. WAX Stickers and WAX Digital Art are custom designed by their creators. Features like the wear value on a VGO skin can significantly affect the price. So why hide these visuals behind an ugly stream of letters and numbers, when customers want to see the items that they’re trading?
-
-Designing the WAX Explorer in the same way that block explorers were designed for commodity-style token trading would be like Amazon having just SKU numbers and weight information for its products instead of photos and videos showing shoppers what the product looks like.
-
-In addition to showing the visuals for all items traded on WAX, we also included a 360 degree rotating animation for WAX Stickers and VGO items, and the WAX 3D Item Viewer Service that allows anyone to click and drag on the item to view it
-at any angle (not all VGO items have the 3D Item Viewer Service enabled now, but all eventually will).
-
-The WAX Explorer also shows relevant information outside of traditional block explorer data like the description and creator of WAX Stickers or WAX Digital Art, or which vCase the item came from, because that matters to the consumers of these items who are buying products - not commodities.
-
-Our overall goal was to make the WAX Explorer as user-friendly as possible. If the blockchain community’s goals is mass adoption of blockchain technology among general consumers, then block explorers - and blockchain-based products overall - shouldn’t be designed so that only blockchain-savvy people can easily use and understand. People should be able to use a blockchain-based service like the WAX Explorer without realizing they’re interacting with the blockchain. Consumers shouldn’t have to actively think about using the blockchain when searching for an item’s sale history in the same way they don't have to actively think about using the internet when asking Google Home to turn up the volume on Pandora. NFT traders should be able to easily view the items that they're trading or interested in trading, see the price of the items in USD instead of calculating crypto, and use all of the visual features on the block explorer that exist on other sites.
+### مستكشف واكس (WAX) 
+لا يشبه مستكشف واكس (WAX) أي مستكشف آخر شهده عالم البلوكتشين من قبل.
+صممت معظم مستكشفات الكتل في الأصل لتكن الرموز القابلة للاستبدال على غرار السلع مثل البيتكوين (Bitcoin) واللايت كوين (Litecoin).  إنها موجودة ببساطة لتوفير المعلومات ذات الصلة حول الرموز المتداولة. بالنسبة إلى الرموز المميزة العامة مثل بيتكوين (BTC) ولايت كوين (LTC)، فإن المعلومات التي يهتم بها أي شخص في التتبع تقتصر إلى حد كبير على البيانات الوصفية فقط - أي كتلة تقع المعاملة فيها، مقدار الوقت المستغرق بالملي ثانية، والعنوان الذي أرسلت إليه، وما إلى ذلك. 
+لكن واكس (WAX) نوع مختلف من البلوكتشين، والمنتجات المتداولة عليها تختلف تمامًا عن المعروض على مستكشفات الكتل الأخرى. نظرًا لأننا نستهل حقبة جديدة من الاعتماد الجماعي لتقنية البلوكتشين التي تتصف بسهولة الاستخدام للمستهلكين، فقد رأينا أنه كان من الضروري ابتكار نوع جديد من مستكشف الكتل يختلف عن أي شيء آخر.  إذا كانت أنواع العناصر المتداولة في الإصدار التجريبي من بلوكتشين واكس (WAX) مختلفة عن العناصر المتداولة في سلاسل البلوكتشين الأخرى، فمن المنطقي أن يكون مستكشف واكس (WAX Explorer) مختلفًا أيضًا.
+مثل مستكشفات الكتل لسلاسل البلوكتشين الأخرى، يعرض مستكشف واكس (WAX Explorer) تفاصيلًا عن جميع المعاملات التي تتم على الإصدار التجريبي من بلوكتشين واكس (WAX) والبيانات الهامة الأخرى. ولكن هنا تنتهي أوجه التشابه مع مستكشفات الكتل الأخرى. لقد أعدنا بالكامل تخيل ما يجب أن يضطلع به مستكشف الكتلة وما يجب أن يبدو عليه مع مستكشف واكس (WAX Explorer) .
+يكمن الفرق بين رؤية تداول الإيثيريوم على إيثرسكان (Etherscan) مقابل رؤية تداول مظاهر  (VGO) على مستكشف واكس (WAX) في أن معاملات (ETH) هي مجرد سلسلة من الحروف في حين أن الرموز غير القابلة للاستبدال (NFT) مثل (VGO) و (CryptoKitties) كلها فريدة تمامًا ولا تشبه بعضها البعض. إنها مقتنيات فريدة من نوعها، وبالتالي منتجات للتجارة الإلكترونية، ولكنها ليست سلعًا ذات قيمة تخزينية مثل الرموز الأخرى. لهذا السبب، يجب أن يتضمن مستكشف الكتلة الذي يعرض معاملات هذه الرموز غير القابلة للاستبدال (NFTs) بيانات ترويجية ذات صلة بشخص يبحث عنها ويتاجر بها. هذا ما بنيناه باستخدام مستكشف واكس (WAX).
+إن مظهر العناصر المتداولة في واكس (WAX) مهم للغاية للمتداولين منهم. صممت ملصقات واكس (WAX) وفن واكس الرقمي (WAX Digital Art) خصيصًا بواسطة منشئيها. يمكن أن تؤثر ميزات مثل قيمة التآكل على واجهة (VGO) تأثيرًا كبيرًا على السعر.  فلماذا تُخفَي هذه المرئيات وراء تيار قبيح من الحروف والأرقام، عندما يرغب العملاء في رؤية العناصر التي يتداولونها؟
+سيكون تصميم مستكشف واكس (WAX Explorer) بنفس الطريقة التي صمم بها المستكشفين لتداول الرموز بنمط السلع مثل أمازون التي تحتوي فقط على أرقام (SKU) ومعلومات الوزن لمنتجاتها بدلاً من الصور ومقاطع الفيديو التي تُظهر للمتسوقين كيف يبدو المنتج.
+بالإضافة إلى عرض الصور المرئية لجميع العناصر المتداولة على واكس (WAX)، فقد ضمنّا أيضًا رسومًا متحركة دوارة بزاوية 360 درجة لملصقات واكس (WAX) وعناصر (VGO)، وخدمة مستعرض واكس ثلاثي الأبعاد  (WAX 3D Item Viewer Service) التي تسمح لأي شخص بالنقر والسحب على العنصر لعرضه في أي الزاوية (لم تمكّن هذه الخدمة لكل عناصر (VGO)، ولكن ستُمكّن جميع العناصر في النهاية).
+يعرض مستكشف واكس (WAX Explorer) أيضًا المعلومات ذات الصلة خارج بيانات مستكشف الكتل التقليدية مثل الوصف والمنشئ لملصقات واكس (WAX) أو واكس للفن الرقمي (WAX Digital Art)، أو أي حالة افتراضية جاء العنصر منها، لأن ذلك يهم مستهلكي هذه العناصر الذين يشترون المنتجات - وليس السلع .
+كان هدفنا العام هو جعل مستكشف واكس (WAX Explorer) سهل الاستخدام قدر الإمكان. إذا كانت أهداف مجتمع البلوكتشين هي التبني الجماعي لتقنية البلوكتشين بين المستهلكين عامة، فيجب ألا يُصمم المستكشفين - وإجمالي المنتجات القائمة على البلوكتشين - بحيث لا يتمكن سوى الأشخاص المتمرسون في البلوكتشين من استخدامها وفهمها بسهولة. يجب أن يكون الأشخاص قادرين على استخدام خدمة تستند إلى البلوكتشين مثل مستكشف واكس (WAX Explorer) دون أن يدركوا أنهم يتفاعلون مع البلوكتشين. لا يجب أن يبذل المستهلكون جهدًا للتفكير في استخدام البلوكتشين عند البحث عن سجل بيع عنصر بنفس الطريقة التي لا يضطرون فيها إلى التفكير في استخدام الإنترنت عند مطالبة (Google Home) بزيادة مستوى الصوت في (Pandora).  يجب أن يكون متداولو الرمز غير القابل للاستبدال (NFT) قادرين على عرض العناصر التي يتداولونها أو يهتمون بتداولها بسهولة، وكذلك معرفة سعر العناصر بالدولار الأمريكي بدلاً من حساب السعر بالعملة المشفرة، واستخدام جميع الميزات المرئية في مستكشف الكتلة الموجودة على مواقع أخرى.
 
 
 <a id="markdown-wax-marketplace" name="wax-marketplace"></a>
 
-### WAX Marketplace
-WAX supports a growing ecosystem of marketplaces. With WAX Marketplace, third-parties can list, purchase, and settle the transaction all through a smart contract. Anyone can operate a fully functioning virtual marketplace with blockchain trust and transaction verification.
+### سوق واكس (WAX)
+تدعم واكس (WAX) نظامًا بيئيًّا متناميًّا للأسواق. مع سوق واكس (WAX)، يمكن للأطراف الثالثة إدراج المعاملة وشرائها وتسويتها من خلال عقد ذكي. يمكن لأي شخص تشغيل سوق افتراضي يعمل بكامل طاقته مع ثقة البلوكتشين ومصادقة المعاملات.
 
-# WAX Technical Documentation
-In the [WAX Technical Documentation on GitHub](https://github.com/worldwide-asset-exchange), developers can find information about the WAX Blockchain, WAX System Contracts, WAX RNG, and WAX Contract Development Toolkit. Soon, developer-specific technical documentation will be available, called the WAX Developer Hive, that developers can use to build projects using the WAX suite of microservices. These tools include services to support e-commerce operations, such as:
+# وثائق واكس الفنية (WAX)
+في  [وثائق واكس (WAX) الفنية على GitHub ](https://github.com/worldwide-asset-exchange), ، يمكن للمطورين العثور على معلومات حول بلوكتشين واكس (WAX) وعقود نظام واكس (WAX) ومولد واكس للأرقام العشوائية (RNG) ومجموعة أدوات تطوير عقد واكس (WAX). ستتاح قريبًا وثائق فنية نخصصة بالمطورين، تسمى خلية واكس للمطورين (WAX) ، والتي يمكن للمطورين استخدامها لبناء المشاريع باستخدام مجموعة واكس (WAX) من الخدمات المصغرة. تتضمن هذه الأدوات خدمات لدعم عمليات التجارة الإلكترونية ، مثل:
 
--   Interactive block explorer
+-  	مستكشف كتل تفاعلي
 
--   Wallet
+-   محفظة
 
--   SSO and OAuth
+-  	(SSO) و (OAuth) 
 
--   Item creation
+-   إنشاء العناصر
 
--   RNG service
+-  	خدمة مولّد الأرقام العشوائية (RNG)
 
--   Interactive item viewers
+-  مشاهدو العناصر التفاعليين
 
--   Marketplace creation
+- 	إنشاء السوق
 
 
-# WAX Projects Showcase
-For the past 12 months, hundreds of sites have built dApps integrating WAX microservices. Their feedback has been immensely useful to help refine the microservice platform. Here, in this section, we cover a select group of dApps and other projects that utilize the WAX Platform in whole or in part.
-
+# عرض مشاريع واكس (WAX)
+على مدى الاثني عشر شهرًا الماضية، بنت مئات المواقع التطبيقات اللامركزية التي تدمج خدمات واكس (WAX) المصغرة. كانت ملاحظاتهم مفيدة للغاية للمساعدة في تحسين منصة الخدمات المصغرة. هنا في هذا القسم، نغطي مجموعة مختارة من التطبيقات اللامركزية والمشاريع الأخرى التي تستخدم منصة واكس (WAX) كليًا أو جزئيًا.
 
 <a id="markdown-marketplaces" name="marketplaces"></a>
 
-## Marketplaces
+## الأسواق
 
 
 <a id="markdown-opskins" name="opskins"></a>
 
 ### [OPSkins](https://opskins.com/)
-OPSkins is one of the world’s largest and most successful digital items trading marketplaces and is powered by WAX. Millions of customers use OPSkins, totaling hundreds of millions of transactions since 2015. OPSkins features WAX All Access, WAX ExpressTrade, WAX Seller Central, and more.
-
+(OPSkins) هي واحدة من أكبر وأنجح أسواق تداول المواد الرقمية في العالم وهي مدعومة من واكس (WAX). يستخدم ملايين العملاء (OPSkins)، بإجمالي مئات الملايين من المعاملات منذ عام 2015.  يُقدم (OPSkins) ميزات الدخول الموحّد لواكس (WAX All Access)  وواكس للتداول السريع (WAX ExpressTrade) وواكس المركزي للبائعين (WAX Seller Central) والمزيد.
 
 <a id="markdown-waxpeer" name="waxpeer"></a>
 
 ### [WAXPeer](https://waxpeer.com/)
-WAXPeer is a peer-to-peer CS:GO skins marketplace.
-
+واكس بيير ( WAX Peer)هو سوق لواجهات لعبة كاونتر سترايك (CS: GO) من نظير إلى نظير
 
 
 <a id="markdown-waxtrades" name="waxtrades"></a>
 
 ### [WAXTrades](https://waxtrades.com/)
-Customers use this marketplace for buying, selling, and trading VGO or vIRL items with many different payment methods.
-
+يستخدم العملاء هذا السوق لشراء وبيع وتداول عناصر (VGO) أو (vIRL) مع العديد من طرق الدفع المختلفة. 
 
 
 <a id="markdown-dcart" name="dcart"></a>
 
 ### [dCart](https://dcart.io/)
-dCart is a decentralized ecommerce platform for digital assets trading, built on
-Blockchain technology.
-
+عربة التسوق اللامركزية (dCart) منصة لا مركزية للتجارة الإلكترونية لتداول الأصول الرقمية، مبنية على تقنية البلوكتشين.
 
 
 <a id="markdown-bynogame" name="bynogame"></a>
 
 ### [ByNoGame](https://www.bynogame.com/en) 
-ByNoGame is a marketplace serving Turkey and the Middle East. They implemented WAX ExpressTrade in 2018 and have continued to expand their usage of [WAX keys and VGO](https://www.bynogame.com/skin/vgo/wax-key).
+(ByNoGame) سوق يخدم تركيا والشرق  الأوسط. لقد طبقوا واكس للتداول السريع (WAX ExpressTrade) في 2018 واستمروا في توسيع استخدامهم لمفاتيح واكس [WAX keys and VGO](https://www.bynogame.com/skin/vgo/wax-key).
 
 
 <a id="markdown-collectibles" name="collectibles"></a>
 
-## Collectibles
+## المقتنيات
 
 <a id="markdown-virl" name="virl"></a>
 
 ### [vIRL](https://govirl.io/)
-To make a digital twin of a physical item and tokenizing is a novel idea. Like the stable coin Tether, imagine a token backed by a real-world object, such as a pair of high-end collectible sneakers. vIRL demonstrated by launching its dApp in November 2018, to immediate commercial success. Tens of millions of vIRLs have been created - all trading on the WAX Blockchain.
-
+إن صنع توأم رقمي لعنصر مادي وترميزه لهي  فكرة جديدة. مثل العملة المستقرة تيذر "Tether" ، تخيل رمزًا مدعومًا بشيء حقيقي، مثل زوج من أحذية رياضية عالية الجودة قابلة للاقتناء. أظهر (vIRL) من خلال إطلاق تطبيقه اللامركزي في نوفمبر 2018 نجاحًا تجاريًا فوريًا. جرى إنشاء عشرات الملايين من (vIRLs) وكلها تُتداول على بلوكتشين واكس (WAX).
 
 
 <a id="markdown-vgo" name="vgo"></a>
 
 ### [VGO](https://vgo.gg/) 
-VGO is blockchain-based items, designed for collecting and trading. VGO items are designed to mimic the trading experience of popular games but without onerous trading restrictions.
-
+(VGO) هي عناصر قائمة على البلوكتشين، مصممة للاقتناء والتجارة.  صممت عناصر (VGO) لمحاكاة تجربة التداول للألعاب الشائعة ولكن دون قيود تجارية مرهقة. 
 
 
 <a id="markdown-fnatic" name="fnatic"></a>
 
 ### [Fnatic](https://www.fnatic.com/)
-WAX and Fnatic, one of the world’s leading global eSports brands, partnered to gift authentic digital collectibles and branded physical merchandise to global eSports fans in real-time. Fans can sell, swap, store and gift limited-edition items on their [WAX ExpressTrade account](https://wax.io/expresstrade/) - instantly and for free. That means that for the first time, eSports fans can acquire branded physical merchandise from a team and its players, then trade those items with anyone else in the world without ever having to take physical ownership of it.
-
+دخلت واكس (WAX) في شراكة مع (Fnatic) - إحدى العلامات التجارية العالمية الرائدة في مجال الرياضة الإلكترونية في العالم - من أجل إهداء المقتنيات الرقمية الأصلية والبضائع المادية ذات العلامات التجارية لمحبي الرياضة الإلكترونية العالمية آنيًّا يمكن للمعجبين بيع الهدايا محدودة الإصدار وتبديلها وتخزينها على حساب واكس للتداول السريع (WAX ExpressTrade) - على الفور ومجانا. هذا يعني أنه لأول مرة، يمكن لعشاق الرياضة الإلكترونية الحصول على سلع مادية ذات علامة تجارية من فريق ما ولاعبيه، ثم تداول هذه العناصر مع أي شخص آخر في العالم دون الحاجة إلى امتلاكها فعليًا. 
 
 <a id="markdown-augmented-reality" name="augmented-reality"></a>
 
 ### Augmented Reality 
-[RTFKT](https://www.rtfkt.net/), the world’s first Augmented Reality (AR) e-commerce inspired by two of the most popular consumer trends – streetwear fashion and video gaming. Blending the obsession of sneaker collecting with designs and attributes inspired by skin drops in video games.
+[RTFKT](https://www.rtfkt.net/), أول تجارة إلكترونية للواقع المعزز في العالم (AR) مستوحاة من اثنين من أشهر اتجاهات المستهلكين - أزياء الشارع وألعاب الفيديو.  مزج هاجس جمع الأحذية الرياضية مع التصميمات والصفات المستوحاة من قطرات الجلد في ألعاب الفيديو.
+في معرض E3 2019، عرضت واكس (WAX) على سناب شات مع أعضاء فريق (FaZe Clan) التجارة الإلكترونية (RTFKT) للواقع المعزز مع العلامة التجارية للأحذية المخصصة. أظهر العرض التوضيحي كيف يمكن للعناصر الافتراضية التي جرى شراؤها في الواقع المعزز أن ترتبط بالعناصر المادية على بلوكتشين واكس (WAX) لاستردادها للنسخة المادية بنقرات قليلة فقط. شاهد العرض التوضيحي هنا:
+https://www.youtube.com/watch؟v=YZSDpQcJlXg
 
-At E3 2019, WAX demonstrated AR e-commerce with the custom shoe brand, RTFKT, on Snapchat with members of the FaZe Clan team. The demo showed how virtual items purchased in AR could link to physical items on the WAX Blockchain for redeeming for the physical version in just a few clicks. See a demo here:
 
 [https://www.youtube.com/watch?v=YZSDpQcJlXg&feature=youtu.be](https://www.youtube.com/watch?v=YZSDpQcJlXg&feature=youtu.be)
 
@@ -794,96 +777,84 @@ At E3 2019, WAX demonstrated AR e-commerce with the custom shoe brand, RTFKT, on
 <a id="markdown-terra-virtua" name="terra-virtua"></a>
 
 ### [Terra Virtua](https://terravirtua.io/)
-Owners of the millions of [VGO skins](https://wax.io/blog/vgo-items-will-trade-on-the-wax-blockchain) trading on the WAX Blockchain can interact with their digital items in augmented reality [Terra Virtua](https://terravirtua.io/), the immersive AR/VR platform for collectibles and a [WAX partner](https://wax.io/blog/wax-x-terra-virtua-a-new-partnership), has released its [AR app for Android devices](https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en_US) featuring WAX integration. See a demo of VGO skins in AR here:
+يمكن لملاك الملايين من  [VGO skins](https://wax.io/blog/vgo-items-will-trade-on-the-wax-blockchain) trتتداول على بلوكتشين واكس (WAX) التفاعل مع عناصرهم الرقمية في الواقع المعزز. أصدرت  [Terra Virtua](https://terravirtua.io/), منصة الواقع المعزز/الواقع الافتراضي الغزيرةللمقتنيات وشريك واكس (WAX) تطبيقًا للواقع المعزز لأجهزة أندرويد التي تقدم تكاملًا مع واكس (WAX). شاهد عرضًا توضيحيًا لجلود VGO في الواقع المعزز هنا:
 
 [https://www.youtube.com/watch?v=uH9fu5eNICk](https://www.youtube.com/watch?v=uH9fu5eNICk)
 
 
-App users can [download the Terra Virtua app](https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en_US) on the Google Play store, then login with WAX. Terra Virtua will read its WAX ExpressTrade inventory and let the users select which VGO skins to interact with. The iOS app is coming soon, in addition to the virtual reality Terra Virtua app and vIRL integration.
-
+يمكن لمستخدمي التطبيق [download the Terra Virtua app](https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en_US) من متجر جوجل بلاي، ثم تسجيل الدخول باستخدام واكس (WAX). ستقرأ تيررا فيرتشوا (Terra Virtua) مخزون واكس للتداول السريع (WAX ExpressTrade) والسماح للمستخدمين بتحديد مظهر (VGO) للتفاعل معها. سيتوفر تطبيق iOS قريبًا ، بالإضافة إلى تطبيق الواقع الافتراضي Terra Virtua وتكامل vIRL.
 
 
 <a id="markdown-e-commerce" name="e-commerce"></a>
 
-## E-commerce
+## التجارة الإلكترونية
 
 <a id="markdown-fan-controlled-football-league-fcfl" name="fan-controlled-football-league-fcfl"></a>
 
 ### [Fan Controlled Football League (FCFL)](https://www.fcfl.io/)
-FCFL is the first league to let the fans call the shots, like real-life Madden. Fans can watch all FCFL games live-streamed on Twitch. The FCFL is the first professional sports league built on top of the Twitch platform. 
+FCFL هو الدوري الأول الذي يسمح للجماهير باستدعاء اللقطات ، مثل Madden real life. يمكن للمعجبين مشاهدة جميع ألعاب FCFL التي يتم بثها مباشرةً على Twitch. FCFL هو أول دوري رياضي محترف مبني على قمة منصة Twitch.
 
-The partnership between WAX and FCFL pushes the envelope for what's possible with merchandise through the virtualization of each piece of FCFL merch. Buyers receive their FCFL merchandise virtually in the form of vIRL, the dApp that virtualizes physical items. They can also redeem the vIRL for the physical version whenever they want and have it shipped to their address.
+تدفع الشراكة بين واكس (WAX) و (FCFL) الحواجز لما هو ممكن مع البضائع من خلال المحاكاة الافتراضية لكل قطعة من سلع (FCFL). يتلقى المشترون بضاعتهم من FCFL تقريبًا في شكل vIRL ، وهو dApp الذي يعمل على محاكاة العناصر المادية. يمكنهم أيضًا استرداد vIRL للإصدار المادي وقتما يريدون وشحنه إلى عنوانهم.
 
-WAX and FCFL celebrated the addition of Mike Tyson to the league by giving away memorabilia autographed by the legendary boxer.
-
+احتفلت واكس (WAX) و (FCFL) بإضافة مايك تايسون إلى الدوري من خلال إعطاء تذكارات موقعة من الملاكم الأسطوري.
 
 <a id="markdown-games" name="games"></a>
 
-## Games
+## الألعاب
 
 
 <a id="markdown-z1br" name="z1br"></a>
 
 ### [Z1BR](https://store.steampowered.com/app/433850/Z1_Battle_Royale/)
-Z1 Battle Royale (Z1BR) recently released limited-edition skins on WAX to commemorate the historic relaunch of H1Z1, the battle royale favorite that paved the way for titles like Fortnite and PUBG.
-
+أصدرت (Z1BR) مؤخرًا إصدارات محدودة على واكس (WAX) لإحياء ذكرى إعادة إطلاق (H1Z1) التاريخي، تلك المعركة الملكية المفضلة التي مهدت الطريق لعناوين مثل فورتنايت (Fortnite) وبابجي (PUBG).
 
 
 <a id="markdown-the-godfather-game" name="the-godfather-game"></a>
 
 ### [The Godfather Game](https://play.google.com/store/apps/details?id=com.dipan.feelingtouch.godfather&hl=en_US)
-The hit mobile game The Godfather Family Dynasty gave away tens of thousands of in-game currency on WAX. As with other in-game items, Godfather Gold can be traded on WAX ExpressTrade for anything that trades on the WAX Blockchain, instantly and for free. It can also be sold on OPSkins Marketplace or stored in the owner’s WAX Inventory.
-
-
+أعطت لعبة الهواتف المحمولة باهرة النجاح (The Godfather Family Dynasty) عشرات الآلاف من العملات داخل اللعبة على واكس (WAX). كما هو الحال مع العناصر الأخرى داخل اللعبة، يمكن تداول الأب الروحي الذهبي (Godfather Gold) على واكس للتداول السريع (WAX ExpressTrade) مقابل أي شيء يُتداول على بلوكتشين واكس، على الفور ومجانًا. يمكن أيضًا بيعه في سوق (OPSkins) أو تخزينه في مخزن واكس (WAX) للمالكين.
 
 <a id="markdown-animoca-brands" name="animoca-brands"></a>
 
 ### [Animoca Brands](https://www.animocabrands.com/)
-The WAX and Animoca Brands partnership drive market adoption of blockchain-based collectible digital items on a well-established platform for global digital commerce. As part of the partnership, Pixowl, a game studio recently acquired by Animoca Brands, allows NFTs created on its platform to be bought, traded, and sold on the WAX Marketplace. This provides additional visibility and liquidity for its creators.
+تدفع شراكة واكس (WAX) و (Animoca Brands) السوق باعتماد العناصر الرقمية القابلة للاقتناء المستندة إلى البلوكتشين على منصة راسخة للتجارة الرقمية العالمية. تتيح بيكساول (Pixowl) - استوديو ألعاب استحوذت علامات أنيموكا التجارية عليه مؤخرًا-  إمكانية شراء الرموز غير القابلة للاستبدال (NFTs) المنشئة على منصتها وتداولها وبيعها في سوق واكس (WAX)، وذلك ضمن عملية الشراكة. وهذا يوفر رؤية وسيولة إضافية لمنشئيها.
 
 
 <a id="markdown-santeria" name="santeria"></a>
 
 ### [Santeria](https://santeriagame.com/)
-Santeria is a fantasy "mini" MMO game where players can explore different locations ranging from castles to wizard towers, fighting arenas, and barns. This game integrates WAX ExpressTrade and allows players to enhance their gameplay experience by purchasing NFTs on OPSkins and using them in the game. Players are automatically equipped with a Magic Hat and Wand, and upgraded equipment in the form of NFTs includes Wizard Staffs and more. 
-
+(Santeria) هي لعبة (MMO) خيالية "صغيرة"، وفيها يمكن للاعبين استكشاف مواقع مختلفة تتراوح من القلاع إلى أبراج السحرة وساحات القتال والحظائر.  تتكامل هذه اللعبة مع واكس للتجارة السريعة (WAX ExpressTrade) وتسمح للاعبين بتعزيز تجربة لعبهم عن طريق شراء الرموز غير القابلة للاستبدال (NFTs) على (OPSkins) واستخدامها في اللعبة. يُجهز اللاعبين تلقائيًا بقبعة سحرية وعصا، وتشمل المعدات التي تمت ترقيتها على شكل رموز غير قابلة للاستبدال (NFTs) عصا الساحر والمزيد. 
 
 
 <a id="markdown-waxwiki" name="waxwiki"></a>
 
 ### [WAX.Wiki](https://www.wax.wiki/home/)
-WAX.Wiki a simple website design created using WAX Creator that lets anyone play games, watch videos, complete surveys, and more to earn collectible cards, stickers, and digital art. These collectibles get stored in their WAX ExpressTrade inventory.
+واكس ويكي (WAX.Wiki) هو تصميم بسيط لموقع الويب المنشأ باستخدام أداء واكس للإنشاء (WAX Creator) الذي يتيح لأي شخص ممارسة الألعاب ومشاهدة مقاطع الفيديو واكمال الاستبيانات وغير ذلك الكثير لكسب بطاقات قابلة للاقتناء والملصقات والفن الرقمي. تُخزّن هذه المقتنيات في مخزون واكس للتداول السريع (WAX ExpressTrade) .
 
+يوجد 100 موقع إضافي يستخدم واكس للتداول السريع (WAX ExpressTrade) وواكس للدخول الموحّد (WAX All Access) ومُنشئ واكس (WAX Creator) وغيرها من الخدمات متناهية الصغر.
 
-There are an additional 100+ sites using WAX ExpressTrade, WAX All Access, WAX Creator and other microservices. 
-
-
-# WAX Roadmap
-For the look ahead, we have some crucial developments planned not already mentioned above:
-
+# خارطة طريق واكس (WAX)
+أما بخصوص التطورات المستقبلية؛ فلدينا بعض التطورات الحاسمة المخطط لها والتي لم تُذكر أعلاه:
 
 <a id="markdown-wax-developer-hive" name="wax-developer-hive"></a>
 
-## WAX Developer Hive
-WAX Developer Hive will provide an overview of our technical services along with explanations, examples, tutorials. The WAX Developer Hive also offers other resources to ease implementation on the WAX Platform.
-
+## خلية مطور واكس (WAX)
+ستوفر خلية واكس للمطورين (WAX) نظرة عامة على خدماتنا التقنية جنبًا إلى جنب مع التفسيرات والأمثلة والبرامج التعليمية. كما توفر خلية واكس للمطورين(WAX) مواردًا أخرى لتسهيل التنفيذ على منصة واكس (WAX).
 
 <a id="markdown-office-of-the-inspector-general" name="office-of-the-inspector-general"></a>
 
-## Office of the Inspector General
-Office of the Inspector General will provide ongoing transparency for the community in voting by evaluating the contribution of guild candidates to the WAX community.
-
+## مكتب المفتش العام
+سيوفر مكتب المفتش العام شفافية مستمرة للمجتمع في عملية التصويت من خلال تقييم مساهمة مرشحي النقابة في مجتمع واكس (WAX).
 
 <a id="markdown-ethereum-microservice" name="ethereum-microservice"></a>
 
-## Ethereum Microservice
-Interoperability with other chains for NFTs and other services requires microservices that can interact with the WAX Platform. That allows WAX to work with Ethereum-based NFTs. In the future, we plan to integrate with other popular chains.
-
+## خدمة إيثيريوم المصغرة
+تتطلب قابلية التشغيل البيني مع السلاسل الأخرى للرموز غير القابلة للاستبدال (NFTs) والخدمات الأخرى خدمات دقيقة يمكنها التفاعل مع منصة واكس (WAX). يسمح ذلك لـ واكس (WAX) بالعمل مع الرموز غير القابلة للاستبدال (NFTs) القائمة على الإيثيريوم. نخطط للتكامل في المستقبل مع السلاسل الأخرى ذات الشعبية.
 
 <a id="markdown-public-wax-testnet" name="public-wax-testnet"></a>
 
-## Public WAX Testnet
-WAX plans to enable a public WAX testnet so that dApps can build their applications safely before launching on the mainnet.
+## شبكة اختبار واكس (WAX) العمومية
+تخطط واكس (WAX) لتمكين شبكة اختبار واكس (WAX) عامة بحيث يمكن للتطبيقات اللامركزية بناء تطبيقاتها بأمان قبل الإطلاق على الشبكة الرئيسية.
 
 </div>
 
