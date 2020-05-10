@@ -381,15 +381,13 @@
 
 <a id="markdown-wax-staking-rewards-as-a-solution-for-voter-apathy" name="wax-staking-rewards-as-a-solution-for-voter-apathy"></a>
 
-#### WAX Staking Rewards as a Solution for Voter Apathy
-Voter apathy is a concern for DPoS blockchains because other DPoS blockchains have been adversely affected by lack of voting. Systemic low voting rates on a chain prevent achieving decentralization, for which the chain was designed. We developed WAX Staking Rewards to drive community interest in the voting process. WAX Token holders who stake their WAX Tokens and vote for WAX Guilds receive these staking rewards. These rewards get maximized when voting is done regularly and for the top-performing guilds.
-
-
-<a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
-
 #### مكافآت تجميد واكس (WAX) حلًا للامبالاة المصوتين
 تعتبر لامبالاة الناخبين مصدر قلق لأنواع البلوكتشين من طراز إثبات الحصة بالتفويض لأن باقي البلوكتشين الأخرى قد تأثرت سلبًا بسبب عدم التصويت.  تمنع معدلات التصويت المنخفضة الممنهجة على السلسلة من تحقيق اللامركزية، الأمر الذي صممت السلسلة من أجله.
 لقد طورنا مكافئات واكس للتجميد (WAX Staking Rewards) لتعزيز اهتمام المجتمع بعملية التصويت. يحصل حاملو رموز واكس (WAX) الذين يجمدون رموزهم ويصوتون لنقابات واكس (WAX Guilds) على هذه المكافآت المعلقة. تزداد قيمة الحصول على هذه المكافآت إلى أقصى حد عند إجراء التصويت بانتظام وللنقابات الأفضل أداءً.
+
+<a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
+
+
 
 #### مكافآت واكس للتجميد (WAX) 
 يحصل حاملو رموز واكس (WAX) الذين يجمدون رموزهم ثم يصوتون بها على رموز واكس (WAX) إضافية تسمى مكافئات واكس للتجميد (WAX Staking Rewards) . تُصدر هذه المكافآت مباشرة من بلوكتشين واكس (WAX).
@@ -592,52 +590,53 @@ Voter apathy is a concern for DPoS blockchains because other DPoS blockchains ha
 
 <a id="markdown-microservice-layer" name="microservice-layer"></a>
 
-## Microservice Layer
-The WAX Service Layer is a full suite of blockchain-based tools and services that allow the community to build projects on WAX. From dApps developers to marketplace owners, video game creators, collectible traders and more, the following microservices are available:
+## طبقة الخدمات الصغيرة
+طبقة خدمة واكس (WAX) هي مجموعة كاملة من الأدوات والخدمات المستندة إلى البلوكتشين التي تسمح للمجتمع ببناء المشاريع على واكس (WAX). تتوفر الخدمات المصغرة التالية من مطوري التطبيقات اللامركزية إلى مالكي السوق ومنشئي ألعاب الفيديو ومتداولي المقتنيات والمزيد:
 
--   **WAX All Access:** A single sign-on (SSO) and OAuth service.
+-   **(WAX All Access): خدمة ** A single sign-on (SSO) and OAuth service.
 
--   **WAX Account (soon WAX Wallet):** Similar to a wallet, except that it doesn’t store private keys, and provides more utility than a standard wallet. WAX Wallet, the next iteration of the WAX Account, is coming soon and will offer more features. Details to follow.
+-   **حساب واكس (WAX) (قريبًا محفظة واكس (WAX Wallet):** Similar to a wallet, except that it doesn’t store private keys, and provides more utility than a standard wallet. WAX Wallet, the next iteration of the WAX Account, is coming soon and will offer more features. Details to follow.
 
--   **WAX NFT Creator:** A self-service tool that allows anyone to create a NFT on the WAX Blockchain for free.
+-   **منشئ واكس للرموز غير القابلة للاستبدال (WAX NFT Creator) :** A self-service tool that allows anyone to create a NFT on the WAX Blockchain for free.
 
--   **WAX ExpressTrade:** A free, instant peer-to-peer trading service.
+-   **واكس للتداول السريع (WAX ExpressTrade) : ** A free, instant peer-to-peer trading service.
 
--   **WAX Explorer:** Unlike any block explorer, featuring a user-friendly design, a visual representation of every item traded, and multiple 3D viewing and interactive features.
+-   **مستكشف واكس (WAX Explorer):** Unlike any block explorer, featuring a user-friendly design, a visual representation of every item traded, and multiple 3D viewing and interactive features.
 
--   **WAX Marketplace:** Create a WAX Marketplace with our APIs.
+-   **سوق واكس (WAX):** Create a WAX Marketplace with our APIs.
 
 
 
 <a id="markdown-wax-all-access" name="wax-all-access"></a>
 
-### WAX All Access
-WAX All Access simplifies the login process because it allows access to any WAX-powered site by logging in with Facebook, Google, Wechat, Steam, or a WAX All Access username and password. The SSO and OAuth services let account holders link these other accounts to their WAX Blockchain account for easier access to their WAX account. To create an account, visit [all-access.wax.io](all-access.wax.io).
+### واكس للدخول الموحّد(WAX All Access)
+يبسط واكس للدخول الموحّد (WAX All Access) عملية تسجيل الدخول لأنه يسمح بالوصول إلى أي موقع يعمل بنظام واكس (WAX) عن طريق تسجيل الدخول باستخدام Facebook أو Google أو Wechat أو Steam أو اسم مستخدم وكلمة مرور على واكس للدخول الموحّد (WAX All Access) . تتيح خدمات (SSO) و (OAuth) لأصحاب الحسابات ربط هذه الحسابات الأخرى بحساب بلوكتشين واكس (WAX) للوصول بسهولة إلى حساب واكس (WAX) الخاص بهم. لإنشاء حساب، يُرجى زيارة all-access.wax.io .
 
-Only specific permissions are received from these third parties and do not involve WAX Blockchain account information.
-
+تستلم أذونات محددة فقط من هذه الأطراف الثالثة ولا تتضمن معلومات حساب بلوكتشين واكس (WAX Blockchain).
 
 
 <a id="markdown-wax-account-soon-wax-wallet" name="wax-account-soon-wax-wallet"></a>
 
-### WAX Account (soon WAX Wallet) 
-A WAX Account is similar to a wallet, except that it doesn’t store private keys. WAX Account provides more utility than a standard wallet because it can view many kinds of non-fungible assets as well as integrate with functions like vote and staking.
+### حساب واكس (WAX) (محفظة واكس (WAX) قريبًا)
+يشبه حساب واكس (WAX) المحفظة، باستثناء أنه لا يخزن المفاتيح الخاصة. 
 
-WAX Account will soon be WAX Wallet. More features about WAX Wallet will be available in the near future.
+يوفر حساب واكس (WAX) فائدة أكثر من المحفظة القياسية لأنه يمكنه عرض أنواع كثيرة من الأصول غير القابلة للاستبدال بالإضافة إلى التكامل مع وظائف مثل التصويت والتجميد.
 
-WAX Account Token holders can perform the following activities directly from their WAX Account.
+سيتحول حساب واكس (WAX) قريبًا إلى محفظة واكس (WAX). ستتوفر المزيد من الميزات حول محفظة واكس (WAX Wallet) في المستقبل القريب.
+يمكن لحاملي رمز واكس (WAX) أداء الأنشطة التالية مباشرة من حساب واكس (WAX) الخاص بهم.
 
--   **Swap** ERC-20 WAX Tokens for [Genesis WAX Protocol Tokens](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years)
 
--   **Stake** any WAX Protocol Tokens acquired or earned through [Staking Rewards](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more) and Genesis Block Member Rewards using Scatter wallet
+-   **تبديل ** رموز (ERC-20) واكس (WAX) [مقابل رموز كتلة تكوين بروتوكول واكس (WAX)](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years)
 
--   **[Vote](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more)** with WAX Protocol Tokens
+-   **الحصة ** anأي رموز لبروتوكول واكس (WAX) المتحصل عليها أو المكتسبة من خلال مكافئات التجميد (Staking Rewards) ومكافئات عضوية كتلة التكوين (Genesis Block Rewards) باستخدام محفظة سكاتر (Scatter)
 
--   **Claim** Staking Rewards and Genesis Block Member Rewards
+-   **[التصويت](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more)** باستخدام رموز بروتوكول واكس (WAX)
+
+-   **المطالبة ** بمكافآت التجميد ومكافئات عضوية كتلة التكوين
 
 -   **تتبع **أرصدة رموز واكس (WAX) ومكافآت التجميد
 
--   **عرض** NFTs
+-   **عرض** الرموز غير القابلة للاستبدال (NFTs) 
 
 يمكن إنشاء حسابات واكس (WAX) على accounts.wax.io .
 
